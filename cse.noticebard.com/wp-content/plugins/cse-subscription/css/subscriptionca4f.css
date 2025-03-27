@@ -1,0 +1,502 @@
+ .sub_body {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2147483646;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.time {
+font-size: 18px;
+font-weight: 400;
+font-family: "Sora", Sans-serif;
+text-align: left;
+
+}
+
+.festive {
+    font-family: Sora;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 40.41px;
+    text-align: center;
+    color: #333333;
+    background-color: #FFB800;
+    border-radius: 7px;
+    margin-top: -50px;
+}
+ .landing_link {
+    
+    color: #000000;
+    font-family: "Sora", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: underline;
+    padding: 2px 7px;
+   
+
+ }
+
+.discount_div {
+    padding: 7px 10px 7px 10px;
+    background-color: #DFF6D6;
+    border-radius: 7px 7px 7px 7px;
+}
+ 
+ .discount_month {
+    color: #014700;
+    font-family: "Sora", Sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+}
+ 
+ .landing_link {
+    
+    color: #000000;
+    font-family: "Sora", Sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    text-decoration: underline;
+    padding: 2px 7px;
+   
+
+ }
+ 
+ .sub_title {
+   font-family: Sora;
+font-size: 28px;
+font-weight: 600;
+line-height: 135%;
+text-align: center;
+color:#220986;
+max-width: 1000px;
+    margin: auto;
+     
+ }
+ 
+.sub_tag {
+  font-family: Sora;
+font-size: 22px;
+font-weight: 400;
+line-height: 29px;
+text-align: center;
+color:#555555;
+padding: 15px 0px;
+  
+    
+} 
+
+.price_sub {
+    font-family: Sora;
+font-size: 42px;
+font-weight: 700;
+line-height: 79.2px;
+text-align: center;
+color:#220986;
+}
+
+.discount_price {
+    font-family: Sora;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #555555;
+    padding: 7px 20px 7px 20px;
+    background-color: #DFF6D6;
+    border-radius: 7px 7px 7px 7px;
+}
+
+.sub_btn  {
+    font-family: "Sora", Sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 0.9px 0.9px 0.9px 0.9px;
+    border-color: #220986;
+    padding: 10px 85px 10px 85px;
+    background: linear-gradient(91.28deg, #220986 -8.74%, #AD00FF 200.23%);
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.sub_btn:hover {
+    background-color: #220986;
+     color:#ffffff;
+}
+
+.subscribe_div {
+    margin-top: 30px;
+}
+ .subscription-popup {
+  /*  background: linear-gradient(360deg, #f2ebeb 61.14%, rgba(255, 255, 255, 0.9) 82.31%, rgba(255, 255, 255, 0) 101.26%); */
+    background-color: #f9f9f9;
+    padding: 25px 20px 20px 20px;
+    text-align: center;
+    max-width: 100%;
+    position: fixed;
+    min-width: 100% !important;
+    bottom: 0;
+    z-index: 1;
+    border-top: 1px solid black;
+}
+
+
+
+.plan {
+    font-family: Sora;
+font-size: 18px;
+font-weight: 700;
+/*line-height: 40.41px;*/
+text-align: center;
+color:#333333;
+}
+ 
+  .section-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 25px 5% 0px 5%;
+  }
+
+  /* Style for each section */
+  .custom-section {
+    width: calc(33% - 45px); /* 33.33% width for each section */
+    margin: 17px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid #99999980;
+    border-radius: 24px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+    .custom-section1 {
+    width: calc(33% - 45px); /* 33.33% width for each section */
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid #99999980;
+    padding: 35px;
+    border-radius: 24px 24px 24px 24px;
+    box-shadow: 0px 3.15px 30px 0px rgba(42.00000000000012, 3.9999999999999973, 105, 0.32941176470588235);
+    margin-top: 12px;
+    border-width: 3.5px 3.5px 3.5px 3.5px;
+    border-style: solid;
+    border-color: #220986;
+  }
+
+  /* Style for list items */
+  .custom-section ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .custom-section ul li {
+    margin-bottom: 10px;
+  }
+  
+  
+  
+/*  body {*/
+/*    font-family: Arial, sans-serif;*/
+/*    margin: 0;*/
+/*    background-color: #f0f0f0;*/
+/*}*/
+
+.main-container-renew {
+      position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2147483646;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.subscription-popup-renew {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subscription-popup-content {
+    background-color: #fff;
+    padding: 45px 40px 0px 40px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Sora';
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.subscription-popup-content h2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+    font-family: 'Sora';
+    font-weight: 700;
+    color: #000000;
+        padding-left: 25px;
+}
+
+.subscription-popup-content p {
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    font-family: 'Sora';
+    color: #222222;
+    margin-top: 20px;
+}
+
+.renew-plan-button {
+    background-color: #220986;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 14px 30px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-bottom: 17px;
+    font-family: 'Sora';
+}
+
+.renew-plan-button .original-price {
+    text-decoration: line-through;
+    margin-left: 10px;
+    font-size: 14px;
+    color: #bbb;
+    font-family: 'Sora';
+}
+
+.choose-plans-button {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #A6A4A4;
+    border-radius: 10px;
+    padding: 14px 30px;
+    font-size: 18px;
+    cursor: pointer;
+    font-family: 'Sora';
+    font-weight: 500;
+}
+
+.close-popup {
+    position: relative;
+    bottom: 310px;
+    left: 170px;
+    font-size: 36px;
+    cursor: pointer;
+    color: #000;
+    font-weight: 400;
+}
+
+.mobile-sub {
+    display: none;
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+        .desktop-sub {
+        display: none;
+    }
+    
+    .mobile-sub {
+    display: flex;
+            flex-direction: column;
+            gap: 7px;
+}
+
+.features-mob {
+    background-color: #F7F5FF;
+    padding: 15px 2px;
+}
+
+ 
+.features-mob ul{
+     list-style: none;
+}
+
+.features-mob ul li {
+  list-style-image: url('../../../uploads/sites/23/2025/02/right.svg'); /* Replace with your SVG */
+}
+.features-mob li {
+    font-size: 16px;
+    font-family: Sora;
+    text-align: left;
+    padding: 6px 5px;
+}
+.main-container-renew {
+      position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2147483646;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.subscription-popup-renew {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subscription-popup-content {
+    background-color: #fff;
+    padding: 45px 40px 1px 40px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Sora';
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.subscription-popup-content h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    font-family: 'Sora';
+    font-weight: 700;
+    color: #000000;
+        padding-left: 25px;
+}
+
+.subscription-popup-content p {
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    font-family: 'Sora';
+    color: #222222;
+    margin-top: 20px;
+}
+
+.renew-plan-button {
+    background-color: #220986;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 14px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 17px;
+    font-family: 'Sora';
+}
+
+.renew-plan-button .original-price {
+    text-decoration: line-through;
+    margin-left: 10px;
+    font-size: 14px;
+    color: #bbb;
+    font-family: 'Sora';
+}
+
+.choose-plans-button {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #A6A4A4;
+    border-radius: 10px;
+    padding: 14px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'Sora';
+    font-weight: 500;
+}
+
+.close-popup {
+    position: relative;
+    bottom: 295px;
+    left: 145px;
+    font-size: 36px;
+    cursor: pointer;
+    color: #000;
+    font-weight: 400;
+}
+
+}  
+  
+  @media only screen and (max-width: 600px) {
+      
+       .sub_body {
+          height: -webkit-fill-available;
+      }
+      
+ .subscription-popup   {
+        height: 380px;
+    overflow-x: auto;
+    }
+    
+ .sub_title {
+    font-size: 26px;
+    line-height: 1.3em;
+}    
+
+.sub_tag {
+    font-size: 18px;
+    line-height: 1.3em;
+}
+.custom-section {
+    margin-bottom: 25px;
+}
+
+
+}
+
+  /* Media query for responsiveness */
+   @media (max-width: 820px) {
+    .custom-section {
+      width: calc(50% - 20px); /* 50% width for each section on smaller screens */
+    }
+    .custom-section1 {
+      width: calc(50% - 20px); /* 50% width for each section on smaller screens */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .custom-section {
+      width: calc(50% - 20px); /* 50% width for each section on smaller screens */
+    }
+    .custom-section1 {
+      width: calc(50% - 20px); /* 50% width for each section on smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+      .subscription-popup {
+         padding: 25px 10px 25px 10px; 
+      }
+    .custom-section {
+      width: calc(100% - 10px); /* 100% width for each section on even smaller screens */
+      padding: 35px 25px;
+    }
+    
+    
+        .custom-section1 {
+    width: 100%; /* 33.33% width for each section */
+    padding: 35px 25px;
+  }
+  
+  .sub_btn  {
+    padding: 12px 45px 12px 45px;
+
+
+}
+.discount_month { color: #014700; font-family: "Sora", Sans-serif; font-size: 22px; font-weight: 700; }
+
+  }

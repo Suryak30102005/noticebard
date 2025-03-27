@@ -1,0 +1,640 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 25 Mar 2025 23:04:28 at https://cse.noticebard.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cse.noticebard.com/ -O1 "C:\My Web Sites\noticebard" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:05:37	Warning: 	Moved Permanently for https://cse.noticebard.com/feed/
+23:05:37	Warning: 	File has moved from https://cse.noticebard.com/feed/ to https://cse.noticebard.com/
+23:05:37	Warning: 	Moved Permanently for https://cse.noticebard.com/comments/feed/
+23:05:37	Warning: 	File has moved from https://cse.noticebard.com/comments/feed/ to https://cse.noticebard.com/
+23:05:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/themes/hello-child-theme/assets/css/custom.css?ver=f39e549ce74adc1e044f23884b6f2cfa (from https://cse.noticebard.com/)
+23:05:49	Error: 	"Forbidden" (403) at link https://cse.noticebard.com/xmlrpc.php?rsd (from https://cse.noticebard.com/)
+23:06:55	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 808): https://cse.noticebard.com/wp-json/wp/v2/categories/8254
+23:08:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/category/workshops/ (from https://cse.noticebard.com/)
+23:08:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/my-profile/ (from https://cse.noticebard.com/)
+23:09:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/author/gurjit/ (from https://cse.noticebard.com/)
+23:09:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/jobs/job-full-stack-programmer-at-turing/ (from https://cse.noticebard.com/)
+23:09:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/fellowships/transforming-india-initiative-fellowship-programmes-2025/ (from https://cse.noticebard.com/)
+23:09:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2025/03/Transforming-India-Initiative-Fellowship-Programmes-2025-27.jpg (from https://cse.noticebard.com/)
+23:09:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2022/06/Side-2-1-768x768.png (from https://cse.noticebard.com/)
+23:09:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2023/06/CSE-NB-2.0-logo-tag-1-1-2.svg (from https://cse.noticebard.com/)
+23:10:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/plugins/affiliatebooster-blocks/dist/assets/fontawesome/webfonts/fa-brands-400.eot? (from https://cse.noticebard.com/wp-content/plugins/affiliatebooster-blocks/dist/assets/fontawesome/css/all.min.css?ver=1724409227)
+23:10:01	Warning: 	Moved Permanently for https://cse.noticebard.com/category/internships/feed/
+23:10:01	Warning: 	File has moved from https://cse.noticebard.com/category/internships/feed/ to https://cse.noticebard.com/category/internships/
+23:10:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available/ (from https://cse.noticebard.com/category/internships/)
+23:10:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/author/merin/ (from https://cse.noticebard.com/category/internships/)
+23:10:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/sound-engineering-intern-at-sony-research-india-6-months2025-stipend-available/ (from https://cse.noticebard.com/category/internships/)
+23:10:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2025/03/22/ (from https://cse.noticebard.com/category/internships/)
+23:10:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2024/01/Featured-image-logo-71.jpg (from https://cse.noticebard.com/category/internships/)
+23:10:52	Warning: 	Moved Permanently for https://cse.noticebard.com/category/jobs/feed/
+23:10:52	Warning: 	File has moved from https://cse.noticebard.com/category/jobs/feed/ to https://cse.noticebard.com/category/jobs/
+23:11:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2025/03/Software-Engineer-at-VISA.jpg (from https://cse.noticebard.com/category/jobs/)
+23:11:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2025/03/SDE-1-at-Oracle-Bengaluru.jpg (from https://cse.noticebard.com/category/jobs/)
+23:11:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2025/03/Junior-React-Developer-at-Xaomi-India.jpg (from https://cse.noticebard.com/category/jobs/)
+23:11:31	Warning: 	Moved Permanently for https://cse.noticebard.com/category/fellowships/feed/
+23:11:31	Warning: 	File has moved from https://cse.noticebard.com/category/fellowships/feed/ to https://cse.noticebard.com/category/fellowships/
+23:11:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/fellowships/pivot-fellowship-2025-research-fellowship-program/ (from https://cse.noticebard.com/category/fellowships/)
+23:11:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2025/03/13/ (from https://cse.noticebard.com/category/fellowships/)
+23:11:59	Warning: 	Moved Permanently for https://cse.noticebard.com/category/hackathon/feed/
+23:11:59	Warning: 	File has moved from https://cse.noticebard.com/category/hackathon/feed/ to https://cse.noticebard.com/category/hackathon/
+23:12:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/hackathon/hackmol-6-0-by-nit-jalandhar/ (from https://cse.noticebard.com/category/hackathon/)
+23:12:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/category/admissions/feed/ (from https://cse.noticebard.com/category/admissions/)
+23:12:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/category/entrance-test/ (from https://cse.noticebard.com/category/admissions/)
+23:13:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2025/01/14/ (from https://cse.noticebard.com/category/admissions/)
+23:13:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/admissions/phd-admissions-at-national-institute/ (from https://cse.noticebard.com/category/admissions/)
+23:13:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2024/09/23/ (from https://cse.noticebard.com/category/admissions/)
+23:14:32	Warning: 	Moved Permanently for https://cse.noticebard.com/category/apprenticeships/feed/
+23:14:32	Warning: 	File has moved from https://cse.noticebard.com/category/apprenticeships/feed/ to https://cse.noticebard.com/category/apprenticeships/
+23:14:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2025/03/IT-Solutions-Delivery-Apprentice-Opprtunity-at-Itron-Bangalore.jpg (from https://cse.noticebard.com/category/apprenticeships/)
+23:15:12	Warning: 	Moved Permanently for https://cse.noticebard.com/category/conferences-and-seminars/feed/
+23:15:12	Warning: 	File has moved from https://cse.noticebard.com/category/conferences-and-seminars/feed/ to https://cse.noticebard.com/category/conferences-and-seminars/
+23:16:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/category/courses/feed/ (from https://cse.noticebard.com/category/courses/)
+23:16:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/courses/patent-agent-examination-2025-by-the-cont-gen-of-patents-designs-and-trademarks/ (from https://cse.noticebard.com/category/courses/)
+23:16:55	Warning: 	Moved Permanently for https://cse.noticebard.com/category/general/feed/
+23:16:55	Warning: 	File has moved from https://cse.noticebard.com/category/general/feed/ to https://cse.noticebard.com/category/general/
+23:16:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/categories/1 (from https://cse.noticebard.com/category/general/)
+23:17:34	Warning: 	Moved Permanently for https://cse.noticebard.com/category/scholarships/feed/
+23:17:34	Warning: 	File has moved from https://cse.noticebard.com/category/scholarships/feed/ to https://cse.noticebard.com/category/scholarships/
+23:18:14	Warning: 	Found for https://cse.noticebard.com/my-profile/
+23:18:14	Warning: 	File has moved from https://cse.noticebard.com/my-profile/ to https://cse.noticebard.com/
+23:18:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/elementor/css/post-33709.css?ver=1742843026 (from https://cse.noticebard.com/subscription-details/)
+23:18:22	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=33709
+23:18:22	Warning: 	File has moved from https://cse.noticebard.com/?p=33709 to https://cse.noticebard.com/subscription-details/
+23:18:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Fsubscription-details%2F (from https://cse.noticebard.com/subscription-details/)
+23:18:23	Warning: 	Found for https://cse.noticebard.com/checkout/?add-to-cart=31605
+23:18:23	Warning: 	File has moved from https://cse.noticebard.com/checkout/?add-to-cart=31605 to https://cse.noticebard.com/
+23:18:27	Warning: 	Found for https://cse.noticebard.com/checkout/?add-to-cart=31603
+23:18:27	Warning: 	File has moved from https://cse.noticebard.com/checkout/?add-to-cart=31603 to https://cse.noticebard.com/
+23:18:30	Warning: 	Found for https://cse.noticebard.com/checkout/?add-to-cart=31576
+23:18:30	Warning: 	File has moved from https://cse.noticebard.com/checkout/?add-to-cart=31576 to https://cse.noticebard.com/
+23:18:31	Warning: 	Moved Permanently for https://cse.noticebard.com/general/slingshot-2025-pitching-competition/feed/
+23:18:31	Warning: 	File has moved from https://cse.noticebard.com/general/slingshot-2025-pitching-competition/feed/ to https://cse.noticebard.com/general/slingshot-2025-pitching-competition/
+23:18:31	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49283
+23:18:31	Warning: 	File has moved from https://cse.noticebard.com/?p=49283 to https://cse.noticebard.com/general/slingshot-2025-pitching-competition/
+23:18:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2023/03/mail-icon@3x-1-1.jpg (from https://cse.noticebard.com/general/slingshot-2025-pitching-competition/)
+23:18:40	Error: 	"Method Not Allowed" (405) at link https://cse.noticebard.com/wp-comments-post.php?04698abe2c6ce0a72b373443dd089df4 (from https://cse.noticebard.com/general/slingshot-2025-pitching-competition/)
+23:18:40	Warning: 	Moved Permanently for https://cse.noticebard.com/author/varun-guleria/feed/
+23:18:40	Warning: 	File has moved from https://cse.noticebard.com/author/varun-guleria/feed/ to https://cse.noticebard.com/author/varun-guleria/
+23:18:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/elementor/css/post-26943.css?ver=1742846014 (from https://cse.noticebard.com/author/varun-guleria/)
+23:18:40	Error: 	"Not Found" (404) at link https://cse.noticebard.com/wp-json/wp/v2/users/380059 (from https://cse.noticebard.com/author/varun-guleria/)
+23:18:40	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/idrbt-summer-internship-programme-2025/feed/
+23:18:40	Warning: 	File has moved from https://cse.noticebard.com/internships/idrbt-summer-internship-programme-2025/feed/ to https://cse.noticebard.com/internships/idrbt-summer-internship-programme-2025/
+23:18:40	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49284
+23:18:40	Warning: 	File has moved from https://cse.noticebard.com/?p=49284 to https://cse.noticebard.com/internships/idrbt-summer-internship-programme-2025/
+23:18:47	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/icssrs-grant/feed/
+23:18:47	Warning: 	File has moved from https://cse.noticebard.com/scholarships/icssrs-grant/feed/ to https://cse.noticebard.com/scholarships/icssrs-grant/
+23:18:47	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49256
+23:18:47	Warning: 	File has moved from https://cse.noticebard.com/?p=49256 to https://cse.noticebard.com/scholarships/icssrs-grant/
+23:18:48	Warning: 	Moved Permanently for https://cse.noticebard.com/jobs/job-post-junior-php-developer-at-iim-ahmedabad/feed/
+23:18:48	Warning: 	File has moved from https://cse.noticebard.com/jobs/job-post-junior-php-developer-at-iim-ahmedabad/feed/ to https://cse.noticebard.com/jobs/job-post-junior-php-developer-at-iim-ahmedabad/
+23:18:48	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49269
+23:18:48	Warning: 	File has moved from https://cse.noticebard.com/?p=49269 to https://cse.noticebard.com/jobs/job-post-junior-php-developer-at-iim-ahmedabad/
+23:18:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/jobs/job-post-junior-php-developer-at-iim-ahmedabad/amp/ (from https://cse.noticebard.com/jobs/job-post-junior-php-developer-at-iim-ahmedabad/)
+23:18:50	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/satyendra-nath-bose-summer-internship-program-2025/feed/
+23:18:50	Warning: 	File has moved from https://cse.noticebard.com/internships/satyendra-nath-bose-summer-internship-program-2025/feed/ to https://cse.noticebard.com/internships/satyendra-nath-bose-summer-internship-program-2025/
+23:18:50	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49246
+23:18:50	Warning: 	File has moved from https://cse.noticebard.com/?p=49246 to https://cse.noticebard.com/internships/satyendra-nath-bose-summer-internship-program-2025/
+23:18:50	Warning: 	Moved Permanently for https://cse.noticebard.com/jobs/job-post-ux-ui-frontend-html-designer-at-iim-ahmedabad/feed/
+23:18:50	Warning: 	File has moved from https://cse.noticebard.com/jobs/job-post-ux-ui-frontend-html-designer-at-iim-ahmedabad/feed/ to https://cse.noticebard.com/jobs/job-post-ux-ui-frontend-html-designer-at-iim-ahmedabad/
+23:18:50	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49241
+23:18:50	Warning: 	File has moved from https://cse.noticebard.com/?p=49241 to https://cse.noticebard.com/jobs/job-post-ux-ui-frontend-html-designer-at-iim-ahmedabad/
+23:18:54	Warning: 	Moved Permanently for https://cse.noticebard.com/hackathon/udyam-mahila-ideathon-challenge/feed/
+23:18:54	Warning: 	File has moved from https://cse.noticebard.com/hackathon/udyam-mahila-ideathon-challenge/feed/ to https://cse.noticebard.com/hackathon/udyam-mahila-ideathon-challenge/
+23:18:54	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49177
+23:18:54	Warning: 	File has moved from https://cse.noticebard.com/?p=49177 to https://cse.noticebard.com/hackathon/udyam-mahila-ideathon-challenge/
+23:18:55	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/fulbright-nehru-masters-fellowships-2026/feed/
+23:18:55	Warning: 	File has moved from https://cse.noticebard.com/fellowships/fulbright-nehru-masters-fellowships-2026/feed/ to https://cse.noticebard.com/fellowships/fulbright-nehru-masters-fellowships-2026/
+23:18:56	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49203
+23:18:56	Warning: 	File has moved from https://cse.noticebard.com/?p=49203 to https://cse.noticebard.com/fellowships/fulbright-nehru-masters-fellowships-2026/
+23:18:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=9.7.1 (from https://cse.noticebard.com/my-account/lost-password/)
+23:18:59	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=31566
+23:18:59	Warning: 	File has moved from https://cse.noticebard.com/?p=31566 to https://cse.noticebard.com/my-account/
+23:19:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-admin/admin-ajax.php (from https://cse.noticebard.com/wp-content/plugins/cse-subscription/js/subscription.js?v=2.2&ver=1.3)
+23:19:10	Error: 	"Not Found" (404) at link https://cse.noticebard.com/GET (from https://cse.noticebard.com/wp-content/plugins/cse-subscription/js/subscription.js?v=2.2&ver=1.3)
+23:19:10	Error: 	"Not Found" (404) at link https://cse.noticebard.com/url1 (from https://cse.noticebard.com/wp-content/plugins/cse-subscription/js/subscription.js?v=2.2&ver=1.3)
+23:19:10	Error: 	"Not Found" (404) at link https://cse.noticebard.com/url2 (from https://cse.noticebard.com/wp-content/plugins/cse-subscription/js/subscription.js?v=2.2&ver=1.3)
+23:19:10	Error: 	"Not Found" (404) at link https://cse.noticebard.com/window.location.href (from https://cse.noticebard.com/wp-content/plugins/lawcto-custom-login/js/lawcto-custom-login.js?v=11.28&ver=3.7)
+23:19:10	Error: 	"Not Found" (404) at link https://cse.noticebard.com/l (from https://cse.noticebard.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+23:19:10	Error: 	"Not Found" (404) at link https://cse.noticebard.com/e (from https://cse.noticebard.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+23:19:10	Error: 	"Not Found" (404) at link https://cse.noticebard.com/t.params.url (from https://cse.noticebard.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+23:19:10	Error: 	"Not Found" (404) at link https://cse.noticebard.com/-negative.svg (from https://cse.noticebard.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
+23:19:10	Error: 	"Not Found" (404) at link https://cse.noticebard.com/OPR/ (from https://cse.noticebard.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
+23:19:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/plugins/affiliatebooster-blocks/dist/assets/fontawesome/webfonts/fa-brands-400.eot? (from https://cse.noticebard.com/wp-content/plugins/affiliatebooster-blocks/dist/assets/fontawesome/css/all.min.css?ver=1724409227)
+23:19:11	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/post-doctoral-fellowship-2025-igidr/feed/
+23:19:11	Warning: 	File has moved from https://cse.noticebard.com/fellowships/post-doctoral-fellowship-2025-igidr/feed/ to https://cse.noticebard.com/fellowships/post-doctoral-fellowship-2025-igidr/
+23:19:11	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49162
+23:19:11	Warning: 	File has moved from https://cse.noticebard.com/?p=49162 to https://cse.noticebard.com/fellowships/post-doctoral-fellowship-2025-igidr/
+23:19:11	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-calicut/feed/
+23:19:11	Warning: 	File has moved from https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-calicut/feed/ to https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-calicut/
+23:19:11	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49120
+23:19:11	Warning: 	File has moved from https://cse.noticebard.com/?p=49120 to https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-calicut/
+23:19:16	Warning: 	Moved Permanently for https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/feed/
+23:19:16	Warning: 	File has moved from https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/feed/ to https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/
+23:19:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/49068 (from https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/)
+23:19:16	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49068
+23:19:16	Warning: 	File has moved from https://cse.noticebard.com/?p=49068 to https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/
+23:19:20	Error: 	"Not Found" (404) at link https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/rubina@iiitd.ac.in (from https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/)
+23:19:20	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-rourkela/feed/
+23:19:20	Warning: 	File has moved from https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-rourkela/feed/ to https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-rourkela/
+23:19:20	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=46593
+23:19:20	Warning: 	File has moved from https://cse.noticebard.com/?p=46593 to https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-rourkela/
+23:19:20	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/summer-internship-2025-at-nitt/feed/
+23:19:20	Warning: 	File has moved from https://cse.noticebard.com/internships/summer-internship-2025-at-nitt/feed/ to https://cse.noticebard.com/internships/summer-internship-2025-at-nitt/
+23:19:21	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48823
+23:19:21	Warning: 	File has moved from https://cse.noticebard.com/?p=48823 to https://cse.noticebard.com/internships/summer-internship-2025-at-nitt/
+23:19:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/sound-engineering-intern-at-sony-research-india-6-months2025-stipend-available/ (from https://cse.noticebard.com/category/internships/)
+23:19:25	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/ai-research-intern-at-general-electric-bengaluru-stipend-available/feed/
+23:19:25	Warning: 	File has moved from https://cse.noticebard.com/internships/ai-research-intern-at-general-electric-bengaluru-stipend-available/feed/ to https://cse.noticebard.com/internships/ai-research-intern-at-general-electric-bengaluru-stipend-available/
+23:19:25	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49209
+23:19:25	Warning: 	File has moved from https://cse.noticebard.com/?p=49209 to https://cse.noticebard.com/internships/ai-research-intern-at-general-electric-bengaluru-stipend-available/
+23:19:26	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/ai-ml-intern-at-trisys-bangalore-cse-it-ece-python/feed/
+23:19:26	Warning: 	File has moved from https://cse.noticebard.com/internships/ai-ml-intern-at-trisys-bangalore-cse-it-ece-python/feed/ to https://cse.noticebard.com/internships/ai-ml-intern-at-trisys-bangalore-cse-it-ece-python/
+23:19:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/49192 (from https://cse.noticebard.com/internships/ai-ml-intern-at-trisys-bangalore-cse-it-ece-python/)
+23:19:28	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49192
+23:19:28	Warning: 	File has moved from https://cse.noticebard.com/?p=49192 to https://cse.noticebard.com/internships/ai-ml-intern-at-trisys-bangalore-cse-it-ece-python/
+23:19:28	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/student-intern-at-intel-bangalore-mtech-hardware-c-c/feed/
+23:19:28	Warning: 	File has moved from https://cse.noticebard.com/internships/student-intern-at-intel-bangalore-mtech-hardware-c-c/feed/ to https://cse.noticebard.com/internships/student-intern-at-intel-bangalore-mtech-hardware-c-c/
+23:19:28	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49190
+23:19:28	Warning: 	File has moved from https://cse.noticebard.com/?p=49190 to https://cse.noticebard.com/internships/student-intern-at-intel-bangalore-mtech-hardware-c-c/
+23:19:29	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/summer-internships-2025-at-nits/feed/
+23:19:29	Warning: 	File has moved from https://cse.noticebard.com/internships/summer-internships-2025-at-nits/feed/ to https://cse.noticebard.com/internships/summer-internships-2025-at-nits/
+23:19:29	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49161
+23:19:29	Warning: 	File has moved from https://cse.noticebard.com/?p=49161 to https://cse.noticebard.com/internships/summer-internships-2025-at-nits/
+23:19:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/summer-internships-2025-at-nits/amp/ (from https://cse.noticebard.com/internships/summer-internships-2025-at-nits/)
+23:19:46	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/electronics-internship-at-parallel-wireless-stipend-upto-rs-2-lpa/feed/
+23:19:46	Warning: 	File has moved from https://cse.noticebard.com/internships/electronics-internship-at-parallel-wireless-stipend-upto-rs-2-lpa/feed/ to https://cse.noticebard.com/internships/electronics-internship-at-parallel-wireless-stipend-upto-rs-2-lpa/
+23:19:46	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49172
+23:19:46	Warning: 	File has moved from https://cse.noticebard.com/?p=49172 to https://cse.noticebard.com/internships/electronics-internship-at-parallel-wireless-stipend-upto-rs-2-lpa/
+23:19:46	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/c-internship-at-harman-cse-ece/feed/
+23:19:46	Warning: 	File has moved from https://cse.noticebard.com/internships/c-internship-at-harman-cse-ece/feed/ to https://cse.noticebard.com/internships/c-internship-at-harman-cse-ece/
+23:19:46	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49168
+23:19:46	Warning: 	File has moved from https://cse.noticebard.com/?p=49168 to https://cse.noticebard.com/internships/c-internship-at-harman-cse-ece/
+23:19:50	Error: 	"NOT FOUND" (404) at link https://jobs.harman.com/portal/16/images/logo--default.png (from https://cse.noticebard.com/internships/c-internship-at-harman-cse-ece/)
+23:19:50	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/one-young-world-sandoz-scholarship-2025/feed/
+23:19:50	Warning: 	File has moved from https://cse.noticebard.com/scholarships/one-young-world-sandoz-scholarship-2025/feed/ to https://cse.noticebard.com/scholarships/one-young-world-sandoz-scholarship-2025/
+23:19:50	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=47663
+23:19:50	Warning: 	File has moved from https://cse.noticebard.com/?p=47663 to https://cse.noticebard.com/scholarships/one-young-world-sandoz-scholarship-2025/
+23:19:51	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/summer-research-program-2025-at-iiser-mohali/feed/
+23:19:51	Warning: 	File has moved from https://cse.noticebard.com/internships/summer-research-program-2025-at-iiser-mohali/feed/ to https://cse.noticebard.com/internships/summer-research-program-2025-at-iiser-mohali/
+23:19:51	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49057
+23:19:51	Warning: 	File has moved from https://cse.noticebard.com/?p=49057 to https://cse.noticebard.com/internships/summer-research-program-2025-at-iiser-mohali/
+23:19:59	Warning: 	Moved Permanently for https://cse.noticebard.com/jobs/job-post-software-engineer-at-visa/feed/
+23:19:59	Warning: 	File has moved from https://cse.noticebard.com/jobs/job-post-software-engineer-at-visa/feed/ to https://cse.noticebard.com/jobs/job-post-software-engineer-at-visa/
+23:20:00	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49143
+23:20:00	Warning: 	File has moved from https://cse.noticebard.com/?p=49143 to https://cse.noticebard.com/jobs/job-post-software-engineer-at-visa/
+23:20:00	Warning: 	Moved Permanently for https://cse.noticebard.com/jobs/job-sde-1-frontend-at-nxtwave/feed/
+23:20:00	Warning: 	File has moved from https://cse.noticebard.com/jobs/job-sde-1-frontend-at-nxtwave/feed/ to https://cse.noticebard.com/jobs/job-sde-1-frontend-at-nxtwave/
+23:20:00	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49111
+23:20:00	Warning: 	File has moved from https://cse.noticebard.com/?p=49111 to https://cse.noticebard.com/jobs/job-sde-1-frontend-at-nxtwave/
+23:20:00	Warning: 	Moved Permanently for https://cse.noticebard.com/jobs/technical-support-engineering-at-microsoft-salary-upto-rs-16-lpa/feed/
+23:20:00	Warning: 	File has moved from https://cse.noticebard.com/jobs/technical-support-engineering-at-microsoft-salary-upto-rs-16-lpa/feed/ to https://cse.noticebard.com/jobs/technical-support-engineering-at-microsoft-salary-upto-rs-16-lpa/
+23:20:00	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49097
+23:20:00	Warning: 	File has moved from https://cse.noticebard.com/?p=49097 to https://cse.noticebard.com/jobs/technical-support-engineering-at-microsoft-salary-upto-rs-16-lpa/
+23:20:00	Warning: 	Moved Permanently for https://cse.noticebard.com/category/software-engineering/project-associate/feed/
+23:20:00	Warning: 	File has moved from https://cse.noticebard.com/category/software-engineering/project-associate/feed/ to https://cse.noticebard.com/category/software-engineering/project-associate/
+23:21:03	Warning: 	Moved Permanently for https://cse.noticebard.com/jobs/job-frontend-developer-at-tcs/feed/
+23:21:03	Warning: 	File has moved from https://cse.noticebard.com/jobs/job-frontend-developer-at-tcs/feed/ to https://cse.noticebard.com/jobs/job-frontend-developer-at-tcs/
+23:21:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/?p=49039 (from https://cse.noticebard.com/jobs/job-frontend-developer-at-tcs/)
+23:21:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/jobs/job-frontend-developer-at-tcs/amp/ (from https://cse.noticebard.com/jobs/job-frontend-developer-at-tcs/)
+23:21:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/jobs/job-software-developer-sde-1-at-oracle-bengaluru/feed/ (from https://cse.noticebard.com/jobs/job-software-developer-sde-1-at-oracle-bengaluru/)
+23:21:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/48835 (from https://cse.noticebard.com/jobs/job-software-developer-sde-1-at-oracle-bengaluru/)
+23:21:10	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48835
+23:21:10	Warning: 	File has moved from https://cse.noticebard.com/?p=48835 to https://cse.noticebard.com/jobs/job-software-developer-sde-1-at-oracle-bengaluru/
+23:21:13	Warning: 	Moved Permanently for https://cse.noticebard.com/jobs/junior-react-developer-at-xaomi-india/feed/
+23:21:13	Warning: 	File has moved from https://cse.noticebard.com/jobs/junior-react-developer-at-xaomi-india/feed/ to https://cse.noticebard.com/jobs/junior-react-developer-at-xaomi-india/
+23:21:13	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48991
+23:21:13	Warning: 	File has moved from https://cse.noticebard.com/?p=48991 to https://cse.noticebard.com/jobs/junior-react-developer-at-xaomi-india/
+23:21:15	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/indo-french-call-for-joint-research-project-proposals-2025-funding-upto-9-crore/feed/
+23:21:15	Warning: 	File has moved from https://cse.noticebard.com/fellowships/indo-french-call-for-joint-research-project-proposals-2025-funding-upto-9-crore/feed/ to https://cse.noticebard.com/fellowships/indo-french-call-for-joint-research-project-proposals-2025-funding-upto-9-crore/
+23:21:15	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49090
+23:21:15	Warning: 	File has moved from https://cse.noticebard.com/?p=49090 to https://cse.noticebard.com/fellowships/indo-french-call-for-joint-research-project-proposals-2025-funding-upto-9-crore/
+23:21:18	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/fossee-summer-fellowship-2025-at-iit-bombay/feed/
+23:21:18	Warning: 	File has moved from https://cse.noticebard.com/fellowships/fossee-summer-fellowship-2025-at-iit-bombay/feed/ to https://cse.noticebard.com/fellowships/fossee-summer-fellowship-2025-at-iit-bombay/
+23:21:18	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48999
+23:21:18	Warning: 	File has moved from https://cse.noticebard.com/?p=48999 to https://cse.noticebard.com/fellowships/fossee-summer-fellowship-2025-at-iit-bombay/
+23:21:22	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/arturo-falaschi-phd-fellowships-monthly-stipend-upto-1-32-lakhs/feed/
+23:21:22	Warning: 	File has moved from https://cse.noticebard.com/fellowships/arturo-falaschi-phd-fellowships-monthly-stipend-upto-1-32-lakhs/feed/ to https://cse.noticebard.com/fellowships/arturo-falaschi-phd-fellowships-monthly-stipend-upto-1-32-lakhs/
+23:21:22	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48870
+23:21:22	Warning: 	File has moved from https://cse.noticebard.com/?p=48870 to https://cse.noticebard.com/fellowships/arturo-falaschi-phd-fellowships-monthly-stipend-upto-1-32-lakhs/
+23:21:26	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/junior-research-fellow-at-indian-institute-of-science-iisc-apply-now/feed/
+23:21:26	Warning: 	File has moved from https://cse.noticebard.com/fellowships/junior-research-fellow-at-indian-institute-of-science-iisc-apply-now/feed/ to https://cse.noticebard.com/fellowships/junior-research-fellow-at-indian-institute-of-science-iisc-apply-now/
+23:21:26	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48874
+23:21:26	Warning: 	File has moved from https://cse.noticebard.com/?p=48874 to https://cse.noticebard.com/fellowships/junior-research-fellow-at-indian-institute-of-science-iisc-apply-now/
+23:21:26	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/arturo-falaschi-postdoctoral-fellowships-monthly-stipend-upto-1-32-lakhs/feed/
+23:21:26	Warning: 	File has moved from https://cse.noticebard.com/fellowships/arturo-falaschi-postdoctoral-fellowships-monthly-stipend-upto-1-32-lakhs/feed/ to https://cse.noticebard.com/fellowships/arturo-falaschi-postdoctoral-fellowships-monthly-stipend-upto-1-32-lakhs/
+23:21:26	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48867
+23:21:26	Warning: 	File has moved from https://cse.noticebard.com/?p=48867 to https://cse.noticebard.com/fellowships/arturo-falaschi-postdoctoral-fellowships-monthly-stipend-upto-1-32-lakhs/
+23:21:26	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/institute-postdoctoral-fellowship-at-iit-gandhinagar/feed/
+23:21:26	Warning: 	File has moved from https://cse.noticebard.com/fellowships/institute-postdoctoral-fellowship-at-iit-gandhinagar/feed/ to https://cse.noticebard.com/fellowships/institute-postdoctoral-fellowship-at-iit-gandhinagar/
+23:21:26	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48763
+23:21:26	Warning: 	File has moved from https://cse.noticebard.com/?p=48763 to https://cse.noticebard.com/fellowships/institute-postdoctoral-fellowship-at-iit-gandhinagar/
+23:21:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/remote-internship-at-hp-bangalore-2/ (from https://cse.noticebard.com/2025/03/14/)
+23:21:33	Warning: 	Moved Permanently for https://cse.noticebard.com/hackathon/rabbit-hole-2025-ai-hackathon/feed/
+23:21:33	Warning: 	File has moved from https://cse.noticebard.com/hackathon/rabbit-hole-2025-ai-hackathon/feed/ to https://cse.noticebard.com/hackathon/rabbit-hole-2025-ai-hackathon/
+23:21:33	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49137
+23:21:33	Warning: 	File has moved from https://cse.noticebard.com/?p=49137 to https://cse.noticebard.com/hackathon/rabbit-hole-2025-ai-hackathon/
+23:21:35	Warning: 	Moved Permanently for https://cse.noticebard.com/hackathon/5g-hackathon-2025-dot-goi/feed/
+23:21:35	Warning: 	File has moved from https://cse.noticebard.com/hackathon/5g-hackathon-2025-dot-goi/feed/ to https://cse.noticebard.com/hackathon/5g-hackathon-2025-dot-goi/
+23:21:35	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48935
+23:21:35	Warning: 	File has moved from https://cse.noticebard.com/?p=48935 to https://cse.noticebard.com/hackathon/5g-hackathon-2025-dot-goi/
+23:21:38	Warning: 	Moved Permanently for https://cse.noticebard.com/hackathon/bharatgen-summit-generative-ai-hackathon-2025/feed/
+23:21:38	Warning: 	File has moved from https://cse.noticebard.com/hackathon/bharatgen-summit-generative-ai-hackathon-2025/feed/ to https://cse.noticebard.com/hackathon/bharatgen-summit-generative-ai-hackathon-2025/
+23:21:38	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48742
+23:21:38	Warning: 	File has moved from https://cse.noticebard.com/?p=48742 to https://cse.noticebard.com/hackathon/bharatgen-summit-generative-ai-hackathon-2025/
+23:21:39	Warning: 	Moved Permanently for https://cse.noticebard.com/author/apoorva/feed/
+23:21:39	Warning: 	File has moved from https://cse.noticebard.com/author/apoorva/feed/ to https://cse.noticebard.com/author/apoorva/
+23:21:39	Error: 	"Not Found" (404) at link https://cse.noticebard.com/wp-json/wp/v2/users/13860 (from https://cse.noticebard.com/author/apoorva/)
+23:22:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2025/03/Summer-School-on-Approximation-Algorithms-2025.jpg (from https://cse.noticebard.com/author/apoorva/)
+23:22:00	Warning: 	Moved Permanently for https://cse.noticebard.com/hackathon/cineca-open-hackathon-2025-by-nvidia-and-openacc/feed/
+23:22:00	Warning: 	File has moved from https://cse.noticebard.com/hackathon/cineca-open-hackathon-2025-by-nvidia-and-openacc/feed/ to https://cse.noticebard.com/hackathon/cineca-open-hackathon-2025-by-nvidia-and-openacc/
+23:22:00	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48599
+23:22:00	Warning: 	File has moved from https://cse.noticebard.com/?p=48599 to https://cse.noticebard.com/hackathon/cineca-open-hackathon-2025-by-nvidia-and-openacc/
+23:22:05	Warning: 	Moved Permanently for https://cse.noticebard.com/hackathon/7-upcoming-hackathons-in-march-2025/feed/
+23:22:05	Warning: 	File has moved from https://cse.noticebard.com/hackathon/7-upcoming-hackathons-in-march-2025/feed/ to https://cse.noticebard.com/hackathon/7-upcoming-hackathons-in-march-2025/
+23:22:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/48375 (from https://cse.noticebard.com/hackathon/7-upcoming-hackathons-in-march-2025/)
+23:22:05	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48375
+23:22:05	Warning: 	File has moved from https://cse.noticebard.com/?p=48375 to https://cse.noticebard.com/hackathon/7-upcoming-hackathons-in-march-2025/
+23:22:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Fhackathon%2F7-upcoming-hackathons-in-march-2025%2F (from https://cse.noticebard.com/hackathon/7-upcoming-hackathons-in-march-2025/)
+23:22:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/hackathon/forensic-hackathon-2025-by-nfsu/feed/ (from https://cse.noticebard.com/hackathon/forensic-hackathon-2025-by-nfsu/)
+23:22:28	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48291
+23:22:28	Warning: 	File has moved from https://cse.noticebard.com/?p=48291 to https://cse.noticebard.com/hackathon/forensic-hackathon-2025-by-nfsu/
+23:22:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/hackathon/smart-gujarat-hackathon-2025-prizes-upto-rs-42-lakhs/feed/ (from https://cse.noticebard.com/hackathon/smart-gujarat-hackathon-2025-prizes-upto-rs-42-lakhs/)
+23:22:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/48272 (from https://cse.noticebard.com/hackathon/smart-gujarat-hackathon-2025-prizes-upto-rs-42-lakhs/)
+23:22:32	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48272
+23:22:32	Warning: 	File has moved from https://cse.noticebard.com/?p=48272 to https://cse.noticebard.com/hackathon/smart-gujarat-hackathon-2025-prizes-upto-rs-42-lakhs/
+23:22:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/hackathon/smart-gujarat-hackathon-2025-prizes-upto-rs-42-lakhs/amp/ (from https://cse.noticebard.com/hackathon/smart-gujarat-hackathon-2025-prizes-upto-rs-42-lakhs/)
+23:22:33	Warning: 	Moved Permanently for https://cse.noticebard.com/hackathon/ai-verse-hackathon/feed/
+23:22:33	Warning: 	File has moved from https://cse.noticebard.com/hackathon/ai-verse-hackathon/feed/ to https://cse.noticebard.com/hackathon/ai-verse-hackathon/
+23:22:33	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48263
+23:22:33	Warning: 	File has moved from https://cse.noticebard.com/?p=48263 to https://cse.noticebard.com/hackathon/ai-verse-hackathon/
+23:22:34	Warning: 	Moved Permanently for https://cse.noticebard.com/category/admissions/feed/
+23:22:34	Warning: 	File has moved from https://cse.noticebard.com/category/admissions/feed/ to https://cse.noticebard.com/category/admissions/
+23:22:34	Warning: 	Moved Permanently for https://cse.noticebard.com/admissions/mtech-research-phd-dual-degree-program-iit-mandi/feed/
+23:22:34	Warning: 	File has moved from https://cse.noticebard.com/admissions/mtech-research-phd-dual-degree-program-iit-mandi/feed/ to https://cse.noticebard.com/admissions/mtech-research-phd-dual-degree-program-iit-mandi/
+23:22:34	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49131
+23:22:34	Warning: 	File has moved from https://cse.noticebard.com/?p=49131 to https://cse.noticebard.com/admissions/mtech-research-phd-dual-degree-program-iit-mandi/
+23:22:35	Warning: 	Moved Permanently for https://cse.noticebard.com/entrance-test/ts-ecet-2025-lateral-entry-diploma-into-b-tech-cbt-exam/feed/
+23:22:35	Warning: 	File has moved from https://cse.noticebard.com/entrance-test/ts-ecet-2025-lateral-entry-diploma-into-b-tech-cbt-exam/feed/ to https://cse.noticebard.com/entrance-test/ts-ecet-2025-lateral-entry-diploma-into-b-tech-cbt-exam/
+23:22:35	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=47917
+23:22:35	Warning: 	File has moved from https://cse.noticebard.com/?p=47917 to https://cse.noticebard.com/entrance-test/ts-ecet-2025-lateral-entry-diploma-into-b-tech-cbt-exam/
+23:22:42	Warning: 	Moved Permanently for https://cse.noticebard.com/admissions/call-for-admissions-llb-llm-masters-in-public-policy-law-and-governance-at-iit-kharagpur/feed/
+23:22:42	Warning: 	File has moved from https://cse.noticebard.com/admissions/call-for-admissions-llb-llm-masters-in-public-policy-law-and-governance-at-iit-kharagpur/feed/ to https://cse.noticebard.com/admissions/call-for-admissions-llb-llm-masters-in-public-policy-law-and-governance-at-iit-kharagpur/
+23:22:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/45766 (from https://cse.noticebard.com/admissions/call-for-admissions-llb-llm-masters-in-public-policy-law-and-governance-at-iit-kharagpur/)
+23:22:47	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=45766
+23:22:47	Warning: 	File has moved from https://cse.noticebard.com/?p=45766 to https://cse.noticebard.com/admissions/call-for-admissions-llb-llm-masters-in-public-policy-law-and-governance-at-iit-kharagpur/
+23:22:56	Warning: 	Moved Permanently for https://cse.noticebard.com/general/engineer-trainee-post-at-nit-tiruchirappalli-stipend-available-apply-now/feed/
+23:22:56	Warning: 	File has moved from https://cse.noticebard.com/general/engineer-trainee-post-at-nit-tiruchirappalli-stipend-available-apply-now/feed/ to https://cse.noticebard.com/general/engineer-trainee-post-at-nit-tiruchirappalli-stipend-available-apply-now/
+23:22:56	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=46128
+23:22:56	Warning: 	File has moved from https://cse.noticebard.com/?p=46128 to https://cse.noticebard.com/general/engineer-trainee-post-at-nit-tiruchirappalli-stipend-available-apply-now/
+23:22:57	Warning: 	Moved Permanently for https://cse.noticebard.com/category/admissions/nit/feed/
+23:22:57	Warning: 	File has moved from https://cse.noticebard.com/category/admissions/nit/feed/ to https://cse.noticebard.com/category/admissions/nit/
+23:22:58	Warning: 	Moved Permanently for https://cse.noticebard.com/admissions/visiting-students-programme-at-iitgn/feed/
+23:22:58	Warning: 	File has moved from https://cse.noticebard.com/admissions/visiting-students-programme-at-iitgn/feed/ to https://cse.noticebard.com/admissions/visiting-students-programme-at-iitgn/
+23:22:58	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=43458
+23:22:58	Warning: 	File has moved from https://cse.noticebard.com/?p=43458 to https://cse.noticebard.com/admissions/visiting-students-programme-at-iitgn/
+23:23:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/admissions/iit/top-20-iit-colleges-nirf-2024/feed/ (from https://cse.noticebard.com/admissions/iit/top-20-iit-colleges-nirf-2024/)
+23:23:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/plugins/affiliatebooster-blocks/assets/blocks/ab-btn/style.css?ver=f39e549ce74adc1e044f23884b6f2cfa (from https://cse.noticebard.com/admissions/iit/top-20-iit-colleges-nirf-2024/)
+23:23:07	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=41151
+23:23:07	Warning: 	File has moved from https://cse.noticebard.com/?p=41151 to https://cse.noticebard.com/admissions/iit/top-20-iit-colleges-nirf-2024/
+23:23:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Fadmissions%2Fiit%2Ftop-20-iit-colleges-nirf-2024%2F (from https://cse.noticebard.com/admissions/iit/top-20-iit-colleges-nirf-2024/)
+23:23:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/author/runesh/ (from https://cse.noticebard.com/admissions/iit/top-20-iit-colleges-nirf-2024/)
+23:23:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2023/06/Online-Short-Term-Course-on-Digital-Marketing-by-IIT-Kharagpur.jpg (from https://cse.noticebard.com/admissions/iit/top-20-iit-colleges-nirf-2024/)
+23:23:23	Warning: 	Moved Permanently for https://cse.noticebard.com/category/admissions/iit/feed/
+23:23:23	Warning: 	File has moved from https://cse.noticebard.com/category/admissions/iit/feed/ to https://cse.noticebard.com/category/admissions/iit/
+23:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/categories/8255 (from https://cse.noticebard.com/category/admissions/iit/)
+23:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/author/arunabh/feed/ (from https://cse.noticebard.com/author/arunabh/)
+23:23:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/users/119857 (from https://cse.noticebard.com/author/arunabh/)
+23:23:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/jobs/it-engineer-support/ (from https://cse.noticebard.com/author/arunabh/)
+23:23:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/quality-analyst-intern-at-engati/ (from https://cse.noticebard.com/author/arunabh/)
+23:23:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2024/07/10/ (from https://cse.noticebard.com/author/arunabh/)
+23:23:40	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://cse.noticebard.com/internships/deep-learning-internship-at-neuropixel-ai/ (from https://cse.noticebard.com/author/arunabh/)
+23:23:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/application-security-intern/ (from https://cse.noticebard.com/author/arunabh/)
+23:24:12	Warning: 	Moved Permanently for https://cse.noticebard.com/admissions/top-15-nit-colleges/feed/
+23:24:12	Warning: 	File has moved from https://cse.noticebard.com/admissions/top-15-nit-colleges/feed/ to https://cse.noticebard.com/admissions/top-15-nit-colleges/
+23:24:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/41108 (from https://cse.noticebard.com/admissions/top-15-nit-colleges/)
+23:24:12	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=41108
+23:24:12	Warning: 	File has moved from https://cse.noticebard.com/?p=41108 to https://cse.noticebard.com/admissions/top-15-nit-colleges/
+23:24:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/admissions/phd-admission-2024-under-visvesvaraya-phd-scheme-at-uiet-punjab-university/feed/ (from https://cse.noticebard.com/admissions/phd-admission-2024-under-visvesvaraya-phd-scheme-at-uiet-punjab-university/)
+23:24:30	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=37934
+23:24:30	Warning: 	File has moved from https://cse.noticebard.com/?p=37934 to https://cse.noticebard.com/admissions/phd-admission-2024-under-visvesvaraya-phd-scheme-at-uiet-punjab-university/
+23:24:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/graduate-apprentice-at-pfizer/ (from https://cse.noticebard.com/2024/07/16/)
+23:24:31	Warning: 	Moved Permanently for https://cse.noticebard.com/admissions/isdmpost-graduate-program-dev-mangement/feed/
+23:24:31	Warning: 	File has moved from https://cse.noticebard.com/admissions/isdmpost-graduate-program-dev-mangement/feed/ to https://cse.noticebard.com/admissions/isdmpost-graduate-program-dev-mangement/
+23:24:31	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=32813
+23:24:31	Warning: 	File has moved from https://cse.noticebard.com/?p=32813 to https://cse.noticebard.com/admissions/isdmpost-graduate-program-dev-mangement/
+23:24:34	Warning: 	Moved Permanently for https://cse.noticebard.com/apprenticeships/phd-assistantship-2025-at-iiit-delhi/feed/
+23:24:34	Warning: 	File has moved from https://cse.noticebard.com/apprenticeships/phd-assistantship-2025-at-iiit-delhi/feed/ to https://cse.noticebard.com/apprenticeships/phd-assistantship-2025-at-iiit-delhi/
+23:24:34	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49141
+23:24:34	Warning: 	File has moved from https://cse.noticebard.com/?p=49141 to https://cse.noticebard.com/apprenticeships/phd-assistantship-2025-at-iiit-delhi/
+23:24:39	Warning: 	Moved Permanently for https://cse.noticebard.com/apprenticeships/apprentices-engagement-at-nit-hamirpur/feed/
+23:24:39	Warning: 	File has moved from https://cse.noticebard.com/apprenticeships/apprentices-engagement-at-nit-hamirpur/feed/ to https://cse.noticebard.com/apprenticeships/apprentices-engagement-at-nit-hamirpur/
+23:24:39	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49082
+23:24:39	Warning: 	File has moved from https://cse.noticebard.com/?p=49082 to https://cse.noticebard.com/apprenticeships/apprentices-engagement-at-nit-hamirpur/
+23:24:39	Warning: 	Moved Permanently for https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-automotive-mastermind/feed/
+23:24:39	Warning: 	File has moved from https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-automotive-mastermind/feed/ to https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-automotive-mastermind/
+23:24:39	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48805
+23:24:39	Warning: 	File has moved from https://cse.noticebard.com/?p=48805 to https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-automotive-mastermind/
+23:24:40	Warning: 	Moved Permanently for https://cse.noticebard.com/apprenticeships/it-solutions-delivery-apprentice-opportunity-at-itron/feed/
+23:24:40	Warning: 	File has moved from https://cse.noticebard.com/apprenticeships/it-solutions-delivery-apprentice-opportunity-at-itron/feed/ to https://cse.noticebard.com/apprenticeships/it-solutions-delivery-apprentice-opportunity-at-itron/
+23:24:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/48344 (from https://cse.noticebard.com/apprenticeships/it-solutions-delivery-apprentice-opportunity-at-itron/)
+23:24:43	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48344
+23:24:43	Warning: 	File has moved from https://cse.noticebard.com/?p=48344 to https://cse.noticebard.com/apprenticeships/it-solutions-delivery-apprentice-opportunity-at-itron/
+23:24:48	Warning: 	Moved Permanently for https://cse.noticebard.com/apprenticeships/web-development-apprenticeship-at-betanxt-1-yr/feed/
+23:24:48	Warning: 	File has moved from https://cse.noticebard.com/apprenticeships/web-development-apprenticeship-at-betanxt-1-yr/feed/ to https://cse.noticebard.com/apprenticeships/web-development-apprenticeship-at-betanxt-1-yr/
+23:24:48	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=47414
+23:24:48	Warning: 	File has moved from https://cse.noticebard.com/?p=47414 to https://cse.noticebard.com/apprenticeships/web-development-apprenticeship-at-betanxt-1-yr/
+23:24:56	Warning: 	Moved Permanently for https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-fox/feed/
+23:24:56	Warning: 	File has moved from https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-fox/feed/ to https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-fox/
+23:24:56	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=45617
+23:24:56	Warning: 	File has moved from https://cse.noticebard.com/?p=45617 to https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-fox/
+23:24:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-fox/amp/ (from https://cse.noticebard.com/apprenticeships/software-development-apprenticeship-at-fox/)
+23:25:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/apprenticeships/apprentice-entrepreneur-in-residence-program-at-wiomlabs/feed/ (from https://cse.noticebard.com/apprenticeships/apprentice-entrepreneur-in-residence-program-at-wiomlabs/)
+23:25:00	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=45397
+23:25:00	Warning: 	File has moved from https://cse.noticebard.com/?p=45397 to https://cse.noticebard.com/apprenticeships/apprentice-entrepreneur-in-residence-program-at-wiomlabs/
+23:25:05	Warning: 	Moved Permanently for https://cse.noticebard.com/apprenticeships/data-science-apprentice-at-sp-global/feed/
+23:25:05	Warning: 	File has moved from https://cse.noticebard.com/apprenticeships/data-science-apprentice-at-sp-global/feed/ to https://cse.noticebard.com/apprenticeships/data-science-apprentice-at-sp-global/
+23:25:05	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=43996
+23:25:05	Warning: 	File has moved from https://cse.noticebard.com/?p=43996 to https://cse.noticebard.com/apprenticeships/data-science-apprentice-at-sp-global/
+23:25:11	Warning: 	Moved Permanently for https://cse.noticebard.com/apprenticeships/software-application-development-apprenticeship-at-google/feed/
+23:25:11	Warning: 	File has moved from https://cse.noticebard.com/apprenticeships/software-application-development-apprenticeship-at-google/feed/ to https://cse.noticebard.com/apprenticeships/software-application-development-apprenticeship-at-google/
+23:25:11	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=41913
+23:25:11	Warning: 	File has moved from https://cse.noticebard.com/?p=41913 to https://cse.noticebard.com/apprenticeships/software-application-development-apprenticeship-at-google/
+23:25:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2024/09/Digital-Business-Marketing-Apprenticeship-at-Google-India-1024x683.jpg (from https://cse.noticebard.com/apprenticeships/digital-business-marketing-apprenticeship-2025-at-google/)
+23:25:22	Warning: 	Moved Permanently for https://cse.noticebard.com/apprenticeships/digital-business-marketing-apprenticeship-2025-at-google/feed/
+23:25:22	Warning: 	File has moved from https://cse.noticebard.com/apprenticeships/digital-business-marketing-apprenticeship-2025-at-google/feed/ to https://cse.noticebard.com/apprenticeships/digital-business-marketing-apprenticeship-2025-at-google/
+23:25:22	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=41831
+23:25:22	Warning: 	File has moved from https://cse.noticebard.com/?p=41831 to https://cse.noticebard.com/apprenticeships/digital-business-marketing-apprenticeship-2025-at-google/
+23:25:24	Warning: 	Moved Permanently for https://cse.noticebard.com/conferences-and-seminars/international-conference-on-advanced-electrical-and-electronics-engineering-at-pune/feed/
+23:25:24	Warning: 	File has moved from https://cse.noticebard.com/conferences-and-seminars/international-conference-on-advanced-electrical-and-electronics-engineering-at-pune/feed/ to https://cse.noticebard.com/conferences-and-seminars/international-conference-on-advanced-electrical-and-electronics-engineering-at-pune/
+23:25:24	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49215
+23:25:24	Warning: 	File has moved from https://cse.noticebard.com/?p=49215 to https://cse.noticebard.com/conferences-and-seminars/international-conference-on-advanced-electrical-and-electronics-engineering-at-pune/
+23:25:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Fconferences-and-seminars%2Finternational-conference-on-advanced-electrical-and-electronics-engineering-at-pune%2F (from https://cse.noticebard.com/conferences-and-seminars/international-conference-on-advanced-electrical-and-electronics-engineering-at-pune/)
+23:25:25	Warning: 	Moved Permanently for https://cse.noticebard.com/conferences-and-seminars/sarc-international-conference-on-computer-science-machine-learning-and-artificial-intelligence-iccsmlai/feed/
+23:25:25	Warning: 	File has moved from https://cse.noticebard.com/conferences-and-seminars/sarc-international-conference-on-computer-science-machine-learning-and-artificial-intelligence-iccsmlai/feed/ to https://cse.noticebard.com/conferences-and-seminars/sarc-international-conference-on-computer-science-machine-learning-and-artificial-intelligence-iccsmlai/
+23:25:25	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49102
+23:25:25	Warning: 	File has moved from https://cse.noticebard.com/?p=49102 to https://cse.noticebard.com/conferences-and-seminars/sarc-international-conference-on-computer-science-machine-learning-and-artificial-intelligence-iccsmlai/
+23:25:27	Warning: 	Moved Permanently for https://cse.noticebard.com/conferences-and-seminars/cfp-sarc-internet-of-things-big-data-analytics-icitbdit-2025-at-indore-india-sep-1-submit-by-aug-16/feed/
+23:25:27	Warning: 	File has moved from https://cse.noticebard.com/conferences-and-seminars/cfp-sarc-internet-of-things-big-data-analytics-icitbdit-2025-at-indore-india-sep-1-submit-by-aug-16/feed/ to https://cse.noticebard.com/conferences-and-seminars/cfp-sarc-internet-of-things-big-data-analytics-icitbdit-2025-at-indore-india-sep-1-submit-by-aug-16/
+23:25:27	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49099
+23:25:27	Warning: 	File has moved from https://cse.noticebard.com/?p=49099 to https://cse.noticebard.com/conferences-and-seminars/cfp-sarc-internet-of-things-big-data-analytics-icitbdit-2025-at-indore-india-sep-1-submit-by-aug-16/
+23:25:33	Warning: 	Moved Permanently for https://cse.noticebard.com/conferences-and-seminars/youth-summit-2025-by-world-bank-group/feed/
+23:25:33	Warning: 	File has moved from https://cse.noticebard.com/conferences-and-seminars/youth-summit-2025-by-world-bank-group/feed/ to https://cse.noticebard.com/conferences-and-seminars/youth-summit-2025-by-world-bank-group/
+23:25:33	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48976
+23:25:33	Warning: 	File has moved from https://cse.noticebard.com/?p=48976 to https://cse.noticebard.com/conferences-and-seminars/youth-summit-2025-by-world-bank-group/
+23:25:33	Warning: 	Moved Permanently for https://cse.noticebard.com/conferences-and-seminars/sarc-international-conference-on-electrical-electronics-engineering-icaeee-2025-at-india/feed/
+23:25:33	Warning: 	File has moved from https://cse.noticebard.com/conferences-and-seminars/sarc-international-conference-on-electrical-electronics-engineering-icaeee-2025-at-india/feed/ to https://cse.noticebard.com/conferences-and-seminars/sarc-international-conference-on-electrical-electronics-engineering-icaeee-2025-at-india/
+23:25:35	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48857
+23:25:35	Warning: 	File has moved from https://cse.noticebard.com/?p=48857 to https://cse.noticebard.com/conferences-and-seminars/sarc-international-conference-on-electrical-electronics-engineering-icaeee-2025-at-india/
+23:25:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Fconferences-and-seminars%2Fsarc-international-conference-on-electrical-electronics-engineering-icaeee-2025-at-india%2F (from https://cse.noticebard.com/conferences-and-seminars/sarc-international-conference-on-electrical-electronics-engineering-icaeee-2025-at-india/)
+23:25:35	Warning: 	Moved Permanently for https://cse.noticebard.com/conferences-and-seminars/international-conference-on-robotics-machine-learning-and-artificial-intelligence-icrmlai-2025-at-noida/feed/
+23:25:35	Warning: 	File has moved from https://cse.noticebard.com/conferences-and-seminars/international-conference-on-robotics-machine-learning-and-artificial-intelligence-icrmlai-2025-at-noida/feed/ to https://cse.noticebard.com/conferences-and-seminars/international-conference-on-robotics-machine-learning-and-artificial-intelligence-icrmlai-2025-at-noida/
+23:25:37	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48853
+23:25:37	Warning: 	File has moved from https://cse.noticebard.com/?p=48853 to https://cse.noticebard.com/conferences-and-seminars/international-conference-on-robotics-machine-learning-and-artificial-intelligence-icrmlai-2025-at-noida/
+23:25:38	Warning: 	Moved Permanently for https://cse.noticebard.com/conferences-and-seminars/arsss-international-conference-on-artificial-intelligence/feed/
+23:25:38	Warning: 	File has moved from https://cse.noticebard.com/conferences-and-seminars/arsss-international-conference-on-artificial-intelligence/feed/ to https://cse.noticebard.com/conferences-and-seminars/arsss-international-conference-on-artificial-intelligence/
+23:25:38	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48812
+23:25:38	Warning: 	File has moved from https://cse.noticebard.com/?p=48812 to https://cse.noticebard.com/conferences-and-seminars/arsss-international-conference-on-artificial-intelligence/
+23:25:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/conferences-and-seminars/cfp-indian-geotechnical-conference-by-nit-jalandhar-april-30/feed/ (from https://cse.noticebard.com/conferences-and-seminars/cfp-indian-geotechnical-conference-by-nit-jalandhar-april-30/)
+23:25:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/48382 (from https://cse.noticebard.com/conferences-and-seminars/cfp-indian-geotechnical-conference-by-nit-jalandhar-april-30/)
+23:25:40	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48382
+23:25:40	Warning: 	File has moved from https://cse.noticebard.com/?p=48382 to https://cse.noticebard.com/conferences-and-seminars/cfp-indian-geotechnical-conference-by-nit-jalandhar-april-30/
+23:25:44	Warning: 	Moved Permanently for https://cse.noticebard.com/conferences-and-seminars/national-conference-on-ncba/feed/
+23:25:44	Warning: 	File has moved from https://cse.noticebard.com/conferences-and-seminars/national-conference-on-ncba/feed/ to https://cse.noticebard.com/conferences-and-seminars/national-conference-on-ncba/
+23:25:44	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48056
+23:25:44	Warning: 	File has moved from https://cse.noticebard.com/?p=48056 to https://cse.noticebard.com/conferences-and-seminars/national-conference-on-ncba/
+23:25:46	Warning: 	Moved Permanently for https://cse.noticebard.com/author/sharmaananya2003/feed/
+23:25:46	Warning: 	File has moved from https://cse.noticebard.com/author/sharmaananya2003/feed/ to https://cse.noticebard.com/author/sharmaananya2003/
+23:25:46	Error: 	"Not Found" (404) at link https://cse.noticebard.com/wp-json/wp/v2/users/20771 (from https://cse.noticebard.com/author/sharmaananya2003/)
+23:26:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/conferences-and-seminars/decolonising-literary-studies-by-uor/ (from https://cse.noticebard.com/author/sharmaananya2003/)
+23:26:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2023/07/Bharat-Internet-Utsav-2023-by-MyGov.jpg (from https://cse.noticebard.com/author/sharmaananya2003/)
+23:26:22	Warning: 	Moved Permanently for https://cse.noticebard.com/conferences-and-seminars/asar-international-conference-icarcsit/feed/
+23:26:22	Warning: 	File has moved from https://cse.noticebard.com/conferences-and-seminars/asar-international-conference-icarcsit/feed/ to https://cse.noticebard.com/conferences-and-seminars/asar-international-conference-icarcsit/
+23:26:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/?p=48074 (from https://cse.noticebard.com/conferences-and-seminars/asar-international-conference-icarcsit/)
+23:26:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Fconferences-and-seminars%2Fasar-international-conference-icarcsit%2F (from https://cse.noticebard.com/conferences-and-seminars/asar-international-conference-icarcsit/)
+23:26:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/category/courses/page/3/ (from https://cse.noticebard.com/category/courses/page/2/)
+23:26:24	Warning: 	Moved Permanently for https://cse.noticebard.com/category/courses/feed/
+23:26:24	Warning: 	File has moved from https://cse.noticebard.com/category/courses/feed/ to https://cse.noticebard.com/category/courses/
+23:26:24	Warning: 	Moved Permanently for https://cse.noticebard.com/courses/stcs-vigyan-vidushi-2025-at-tifr-mumbai/feed/
+23:26:24	Warning: 	File has moved from https://cse.noticebard.com/courses/stcs-vigyan-vidushi-2025-at-tifr-mumbai/feed/ to https://cse.noticebard.com/courses/stcs-vigyan-vidushi-2025-at-tifr-mumbai/
+23:26:24	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/48413 (from https://cse.noticebard.com/courses/stcs-vigyan-vidushi-2025-at-tifr-mumbai/)
+23:26:27	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48413
+23:26:27	Warning: 	File has moved from https://cse.noticebard.com/?p=48413 to https://cse.noticebard.com/courses/stcs-vigyan-vidushi-2025-at-tifr-mumbai/
+23:26:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Fcourses%2Fstcs-vigyan-vidushi-2025-at-tifr-mumbai%2F&format=xml (from https://cse.noticebard.com/courses/stcs-vigyan-vidushi-2025-at-tifr-mumbai/)
+23:26:39	Warning: 	Moved Permanently for https://cse.noticebard.com/courses/certificate-course-on-quantitative-analysis-and-data-visualisation-at-azim-premji-university/feed/
+23:26:39	Warning: 	File has moved from https://cse.noticebard.com/courses/certificate-course-on-quantitative-analysis-and-data-visualisation-at-azim-premji-university/feed/ to https://cse.noticebard.com/courses/certificate-course-on-quantitative-analysis-and-data-visualisation-at-azim-premji-university/
+23:26:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/47953 (from https://cse.noticebard.com/courses/certificate-course-on-quantitative-analysis-and-data-visualisation-at-azim-premji-university/)
+23:26:39	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=47953
+23:26:39	Warning: 	File has moved from https://cse.noticebard.com/?p=47953 to https://cse.noticebard.com/courses/certificate-course-on-quantitative-analysis-and-data-visualisation-at-azim-premji-university/
+23:26:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Fcourses%2Fcertificate-course-on-quantitative-analysis-and-data-visualisation-at-azim-premji-university%2F (from https://cse.noticebard.com/courses/certificate-course-on-quantitative-analysis-and-data-visualisation-at-azim-premji-university/)
+23:26:40	Warning: 	Moved Permanently for https://cse.noticebard.com/category/internships/data-analytics/feed/
+23:26:40	Warning: 	File has moved from https://cse.noticebard.com/category/internships/data-analytics/feed/ to https://cse.noticebard.com/category/internships/data-analytics/
+23:26:40	Warning: 	Moved Permanently for https://cse.noticebard.com/courses/post-graduate-program-in-generative-ai-ml-with-edureka-and-illinois-tech/feed/
+23:26:40	Warning: 	File has moved from https://cse.noticebard.com/courses/post-graduate-program-in-generative-ai-ml-with-edureka-and-illinois-tech/feed/ to https://cse.noticebard.com/courses/post-graduate-program-in-generative-ai-ml-with-edureka-and-illinois-tech/
+23:26:40	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=45988
+23:26:40	Warning: 	File has moved from https://cse.noticebard.com/?p=45988 to https://cse.noticebard.com/courses/post-graduate-program-in-generative-ai-ml-with-edureka-and-illinois-tech/
+23:26:49	Warning: 	Moved Permanently for https://cse.noticebard.com/courses/post-graduate-program-in-devops-with-edureka/feed/
+23:26:49	Warning: 	File has moved from https://cse.noticebard.com/courses/post-graduate-program-in-devops-with-edureka/feed/ to https://cse.noticebard.com/courses/post-graduate-program-in-devops-with-edureka/
+23:26:49	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=45922
+23:26:49	Warning: 	File has moved from https://cse.noticebard.com/?p=45922 to https://cse.noticebard.com/courses/post-graduate-program-in-devops-with-edureka/
+23:26:49	Warning: 	Moved Permanently for https://cse.noticebard.com/courses/online-fdp-on-recent-trends-in-ai-ml-and-vlsi-by-nit-warangal-bcrec/feed/
+23:26:49	Warning: 	File has moved from https://cse.noticebard.com/courses/online-fdp-on-recent-trends-in-ai-ml-and-vlsi-by-nit-warangal-bcrec/feed/ to https://cse.noticebard.com/courses/online-fdp-on-recent-trends-in-ai-ml-and-vlsi-by-nit-warangal-bcrec/
+23:26:49	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=46527
+23:26:49	Warning: 	File has moved from https://cse.noticebard.com/?p=46527 to https://cse.noticebard.com/courses/online-fdp-on-recent-trends-in-ai-ml-and-vlsi-by-nit-warangal-bcrec/
+23:26:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/fellowships/asean-india-research-training-fellowship/ (from https://cse.noticebard.com/2025/01/23/)
+23:26:53	Warning: 	Moved Permanently for https://cse.noticebard.com/courses/online-fdp-on-ml-applications-nit-warangal-srgec/feed/
+23:26:53	Warning: 	File has moved from https://cse.noticebard.com/courses/online-fdp-on-ml-applications-nit-warangal-srgec/feed/ to https://cse.noticebard.com/courses/online-fdp-on-ml-applications-nit-warangal-srgec/
+23:26:53	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=46479
+23:26:53	Warning: 	File has moved from https://cse.noticebard.com/?p=46479 to https://cse.noticebard.com/courses/online-fdp-on-ml-applications-nit-warangal-srgec/
+23:27:06	Warning: 	Moved Permanently for https://cse.noticebard.com/courses/top-10-recommended-courses-for-cse-students/feed/
+23:27:06	Warning: 	File has moved from https://cse.noticebard.com/courses/top-10-recommended-courses-for-cse-students/feed/ to https://cse.noticebard.com/courses/top-10-recommended-courses-for-cse-students/
+23:27:06	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=44496
+23:27:06	Warning: 	File has moved from https://cse.noticebard.com/?p=44496 to https://cse.noticebard.com/courses/top-10-recommended-courses-for-cse-students/
+23:27:07	Warning: 	Moved Permanently for https://cse.noticebard.com/courses/jee-main-2025-free-crash-course-by-iit/feed/
+23:27:07	Warning: 	File has moved from https://cse.noticebard.com/courses/jee-main-2025-free-crash-course-by-iit/feed/ to https://cse.noticebard.com/courses/jee-main-2025-free-crash-course-by-iit/
+23:27:07	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=44031
+23:27:07	Warning: 	File has moved from https://cse.noticebard.com/?p=44031 to https://cse.noticebard.com/courses/jee-main-2025-free-crash-course-by-iit/
+23:27:17	Warning: 	Moved Permanently for https://cse.noticebard.com/courses/js-css-html-interview-questions/feed/
+23:27:17	Warning: 	File has moved from https://cse.noticebard.com/courses/js-css-html-interview-questions/feed/ to https://cse.noticebard.com/courses/js-css-html-interview-questions/
+23:27:17	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=32754
+23:27:17	Warning: 	File has moved from https://cse.noticebard.com/?p=32754 to https://cse.noticebard.com/courses/js-css-html-interview-questions/
+23:27:32	Warning: 	Moved Permanently for https://cse.noticebard.com/general/composit-2025-at-iit-kharagpur/feed/
+23:27:32	Warning: 	File has moved from https://cse.noticebard.com/general/composit-2025-at-iit-kharagpur/feed/ to https://cse.noticebard.com/general/composit-2025-at-iit-kharagpur/
+23:27:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/?p=49069 (from https://cse.noticebard.com/general/composit-2025-at-iit-kharagpur/)
+23:27:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/general/tie-women-program-2025/feed/ (from https://cse.noticebard.com/general/tie-women-program-2025/)
+23:27:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/49029 (from https://cse.noticebard.com/general/tie-women-program-2025/)
+23:27:37	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49029
+23:27:37	Warning: 	File has moved from https://cse.noticebard.com/?p=49029 to https://cse.noticebard.com/general/tie-women-program-2025/
+23:27:38	Warning: 	Moved Permanently for https://cse.noticebard.com/general/kode-with-klossy-summer-camp-2025/feed/
+23:27:38	Warning: 	File has moved from https://cse.noticebard.com/general/kode-with-klossy-summer-camp-2025/feed/ to https://cse.noticebard.com/general/kode-with-klossy-summer-camp-2025/
+23:27:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/?p=48996 (from https://cse.noticebard.com/general/kode-with-klossy-summer-camp-2025/)
+23:27:41	Warning: 	Moved Permanently for https://cse.noticebard.com/general/frontend-engineering-internship-schbang/feed/
+23:27:41	Warning: 	File has moved from https://cse.noticebard.com/general/frontend-engineering-internship-schbang/feed/ to https://cse.noticebard.com/general/frontend-engineering-internship-schbang/
+23:27:41	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48850
+23:27:41	Warning: 	File has moved from https://cse.noticebard.com/?p=48850 to https://cse.noticebard.com/general/frontend-engineering-internship-schbang/
+23:27:41	Warning: 	Moved Permanently for https://cse.noticebard.com/general/dst-young-scientist-and-technologist-2025/feed/
+23:27:41	Warning: 	File has moved from https://cse.noticebard.com/general/dst-young-scientist-and-technologist-2025/feed/ to https://cse.noticebard.com/general/dst-young-scientist-and-technologist-2025/
+23:27:41	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48687
+23:27:41	Warning: 	File has moved from https://cse.noticebard.com/?p=48687 to https://cse.noticebard.com/general/dst-young-scientist-and-technologist-2025/
+23:27:42	Warning: 	Moved Permanently for https://cse.noticebard.com/general/how-to-prepare-for-a-career-in-environmental-law/feed/
+23:27:42	Warning: 	File has moved from https://cse.noticebard.com/general/how-to-prepare-for-a-career-in-environmental-law/feed/ to https://cse.noticebard.com/general/how-to-prepare-for-a-career-in-environmental-law/
+23:27:42	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49290
+23:27:42	Warning: 	File has moved from https://cse.noticebard.com/?p=49290 to https://cse.noticebard.com/general/how-to-prepare-for-a-career-in-environmental-law/
+23:27:42	Warning: 	Moved Permanently for https://cse.noticebard.com/general/pm-yuva-2025-nurturing-young-authors/feed/
+23:27:42	Warning: 	File has moved from https://cse.noticebard.com/general/pm-yuva-2025-nurturing-young-authors/feed/ to https://cse.noticebard.com/general/pm-yuva-2025-nurturing-young-authors/
+23:27:42	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48619
+23:27:42	Warning: 	File has moved from https://cse.noticebard.com/?p=48619 to https://cse.noticebard.com/general/pm-yuva-2025-nurturing-young-authors/
+23:27:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://school.noticebard.com/wp-content/uploads/sites/32/2025/03/mygov-10000000001748634094-1024x284.jpg (from https://cse.noticebard.com/general/pm-yuva-2025-nurturing-young-authors/)
+23:27:50	Warning: 	Moved Permanently for https://cse.noticebard.com/general/bharat-startup-grand-challenge-2025/feed/
+23:27:50	Warning: 	File has moved from https://cse.noticebard.com/general/bharat-startup-grand-challenge-2025/feed/ to https://cse.noticebard.com/general/bharat-startup-grand-challenge-2025/
+23:27:50	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48477
+23:27:50	Warning: 	File has moved from https://cse.noticebard.com/?p=48477 to https://cse.noticebard.com/general/bharat-startup-grand-challenge-2025/
+23:27:57	Warning: 	Moved Permanently for https://cse.noticebard.com/general/womens-day-workshop-cmti-bangalore/feed/
+23:27:57	Warning: 	File has moved from https://cse.noticebard.com/general/womens-day-workshop-cmti-bangalore/feed/ to https://cse.noticebard.com/general/womens-day-workshop-cmti-bangalore/
+23:28:02	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48468
+23:28:02	Warning: 	File has moved from https://cse.noticebard.com/?p=48468 to https://cse.noticebard.com/general/womens-day-workshop-cmti-bangalore/
+23:28:06	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/aston-university-great-scholarship-2025-funding-rs-10-l/feed/
+23:28:06	Warning: 	File has moved from https://cse.noticebard.com/scholarships/aston-university-great-scholarship-2025-funding-rs-10-l/feed/ to https://cse.noticebard.com/scholarships/aston-university-great-scholarship-2025-funding-rs-10-l/
+23:28:06	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49213
+23:28:06	Warning: 	File has moved from https://cse.noticebard.com/?p=49213 to https://cse.noticebard.com/scholarships/aston-university-great-scholarship-2025-funding-rs-10-l/
+23:28:07	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/hull-university-great-scholarship-2025-funding-rs-10-l/feed/
+23:28:07	Warning: 	File has moved from https://cse.noticebard.com/scholarships/hull-university-great-scholarship-2025-funding-rs-10-l/feed/ to https://cse.noticebard.com/scholarships/hull-university-great-scholarship-2025-funding-rs-10-l/
+23:28:07	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49185
+23:28:07	Warning: 	File has moved from https://cse.noticebard.com/?p=49185 to https://cse.noticebard.com/scholarships/hull-university-great-scholarship-2025-funding-rs-10-l/
+23:28:10	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/university-of-edinburgh-great-masters-scholarships-2025-tution-fee-funded/feed/
+23:28:10	Warning: 	File has moved from https://cse.noticebard.com/scholarships/university-of-edinburgh-great-masters-scholarships-2025-tution-fee-funded/feed/ to https://cse.noticebard.com/scholarships/university-of-edinburgh-great-masters-scholarships-2025-tution-fee-funded/
+23:28:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/49174 (from https://cse.noticebard.com/scholarships/university-of-edinburgh-great-masters-scholarships-2025-tution-fee-funded/)
+23:28:10	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49174
+23:28:10	Warning: 	File has moved from https://cse.noticebard.com/?p=49174 to https://cse.noticebard.com/scholarships/university-of-edinburgh-great-masters-scholarships-2025-tution-fee-funded/
+23:28:14	Error: 	"Not Found" (404) at link https://www.ed.ac.uk/sites/all/themes/uoe/assets/logo.png (from https://cse.noticebard.com/scholarships/university-of-edinburgh-great-masters-scholarships-2025-tution-fee-funded/)
+23:28:14	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/sheffield-hallam-university-great-scholarship-2025-funding-rs-10-l/feed/
+23:28:14	Warning: 	File has moved from https://cse.noticebard.com/scholarships/sheffield-hallam-university-great-scholarship-2025-funding-rs-10-l/feed/ to https://cse.noticebard.com/scholarships/sheffield-hallam-university-great-scholarship-2025-funding-rs-10-l/
+23:28:14	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49199
+23:28:14	Warning: 	File has moved from https://cse.noticebard.com/?p=49199 to https://cse.noticebard.com/scholarships/sheffield-hallam-university-great-scholarship-2025-funding-rs-10-l/
+23:28:14	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/university-of-chichester-global-distinction-scholarship-2025-funding-fee-deduction/feed/
+23:28:14	Warning: 	File has moved from https://cse.noticebard.com/scholarships/university-of-chichester-global-distinction-scholarship-2025-funding-fee-deduction/feed/ to https://cse.noticebard.com/scholarships/university-of-chichester-global-distinction-scholarship-2025-funding-fee-deduction/
+23:28:14	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49196
+23:28:14	Warning: 	File has moved from https://cse.noticebard.com/?p=49196 to https://cse.noticebard.com/scholarships/university-of-chichester-global-distinction-scholarship-2025-funding-fee-deduction/
+23:28:18	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/great-scholarship-by-university-of-derby-2025/feed/
+23:28:18	Warning: 	File has moved from https://cse.noticebard.com/scholarships/great-scholarship-by-university-of-derby-2025/feed/ to https://cse.noticebard.com/scholarships/great-scholarship-by-university-of-derby-2025/
+23:28:19	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48937
+23:28:19	Warning: 	File has moved from https://cse.noticebard.com/?p=48937 to https://cse.noticebard.com/scholarships/great-scholarship-by-university-of-derby-2025/
+23:28:20	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/great-scholarships-2025-by-ucl-british-council-funding-rs-10-l-may-8/feed/
+23:28:20	Warning: 	File has moved from https://cse.noticebard.com/scholarships/great-scholarships-2025-by-ucl-british-council-funding-rs-10-l-may-8/feed/ to https://cse.noticebard.com/scholarships/great-scholarships-2025-by-ucl-british-council-funding-rs-10-l-may-8/
+23:28:20	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48941
+23:28:20	Warning: 	File has moved from https://cse.noticebard.com/?p=48941 to https://cse.noticebard.com/scholarships/great-scholarships-2025-by-ucl-british-council-funding-rs-10-l-may-8/
+23:28:20	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/twas-research-grants-programme-2025/feed/
+23:28:20	Warning: 	File has moved from https://cse.noticebard.com/scholarships/twas-research-grants-programme-2025/feed/ to https://cse.noticebard.com/scholarships/twas-research-grants-programme-2025/
+23:28:20	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48827
+23:28:20	Warning: 	File has moved from https://cse.noticebard.com/?p=48827 to https://cse.noticebard.com/scholarships/twas-research-grants-programme-2025/
+23:28:20	Warning: 	Moved Permanently for https://cse.noticebard.com/scholarships/z-zurich-foundation-scholarship-2025/feed/
+23:28:20	Warning: 	File has moved from https://cse.noticebard.com/scholarships/z-zurich-foundation-scholarship-2025/feed/ to https://cse.noticebard.com/scholarships/z-zurich-foundation-scholarship-2025/
+23:28:20	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48759
+23:28:20	Warning: 	File has moved from https://cse.noticebard.com/?p=48759 to https://cse.noticebard.com/scholarships/z-zurich-foundation-scholarship-2025/
+23:28:25	Warning: 	Moved Permanently for https://cse.noticebard.com/category/workshops/feed/
+23:28:25	Warning: 	File has moved from https://cse.noticebard.com/category/workshops/feed/ to https://cse.noticebard.com/category/workshops/
+23:28:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2024/09/05/ (from https://cse.noticebard.com/category/workshops/)
+23:28:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2024/08/09/ (from https://cse.noticebard.com/category/workshops/)
+23:28:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/workshops/serb-sponsored-workshop-on-digital-transformation-to-industry-5-0-at-nit-silchar/ (from https://cse.noticebard.com/category/workshops/)
+23:28:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2024/07/01/ (from https://cse.noticebard.com/category/workshops/)
+23:29:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/workshops/workshop-on-user-experience-design-by-iim-bangalore/ (from https://cse.noticebard.com/category/workshops/)
+23:29:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/elementor/css/post-33709.css?ver=1742843026 (from https://cse.noticebard.com/subscription-details/)
+23:29:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Fsubscription-details%2F (from https://cse.noticebard.com/subscription-details/)
+23:29:12	Warning: 	Moved Permanently for https://cse.noticebard.com/?amp
+23:29:12	Warning: 	File has moved from https://cse.noticebard.com/?amp to https://cse.noticebard.com/
+23:29:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2025/03/COMPOSIT-2025-at-IIT-Kharagpur-150x150.jpg (from https://cse.noticebard.com/general/slingshot-2025-pitching-competition/amp/)
+23:29:14	Error: 	"Not Found" (404) at link https://cse.noticebard.com/general/slingshot-2025-pitching-competition/url1 (from https://cse.noticebard.com/wp-content/plugins/lawcto-custom-login/js/lawcto-custom-login-scroll-popup.js?ver=7.01)
+23:29:14	Error: 	"Not Found" (404) at link https://cse.noticebard.com/general/slingshot-2025-pitching-competition/url2 (from https://cse.noticebard.com/wp-content/plugins/lawcto-custom-login/js/lawcto-custom-login-scroll-popup.js?ver=7.01)
+23:29:14	Error: 	"Bad Request" (400) at link https://cse.noticebard.com/wp-admin/admin-ajax.php? (from https://cse.noticebard.com/wp-content/plugins/lawcto-custom-login/js/lawcto-custom-login-scroll-popup.js?ver=7.01)
+23:29:23	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available//amp/
+23:29:23	Warning: 	Redirected link is identical because of 'URL Hack' option: https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available//amp/ and https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available/amp/
+23:29:23	Warning: 	File has moved from https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available//amp/ to https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available/amp/
+23:29:23	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/sound-engineering-intern-at-sony-research-india-6-months2025-stipend-available//amp/
+23:29:23	Warning: 	Redirected link is identical because of 'URL Hack' option: https://cse.noticebard.com/internships/sound-engineering-intern-at-sony-research-india-6-months2025-stipend-available//amp/ and https://cse.noticebard.com/internships/sound-engineering-intern-at-sony-research-india-6-months2025-stipend-available/amp/
+23:29:23	Warning: 	File has moved from https://cse.noticebard.com/internships/sound-engineering-intern-at-sony-research-india-6-months2025-stipend-available//amp/ to https://cse.noticebard.com/internships/sound-engineering-intern-at-sony-research-india-6-months2025-stipend-available/amp/
+23:29:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2024/11/Software-and-Hardware-Engineering-Internship-at-GE-Healthcare-Bangalore-150x150.jpg (from https://cse.noticebard.com/internships/idrbt-summer-internship-programme-2025/amp/)
+23:29:25	Warning: 	Moved Permanently for https://cse.noticebard.com/author/gurjit/feed/
+23:29:25	Warning: 	File has moved from https://cse.noticebard.com/author/gurjit/feed/ to https://cse.noticebard.com/author/gurjit/
+23:29:26	Error: 	"Not Found" (404) at link https://cse.noticebard.com/wp-json/wp/v2/users/13 (from https://cse.noticebard.com/author/gurjit/)
+23:29:35	Warning: 	Moved Permanently for https://cse.noticebard.com/jobs/job-full-stack-programmer-at-turing/feed/
+23:29:35	Warning: 	File has moved from https://cse.noticebard.com/jobs/job-full-stack-programmer-at-turing/feed/ to https://cse.noticebard.com/jobs/job-full-stack-programmer-at-turing/
+23:29:35	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49180
+23:29:35	Warning: 	File has moved from https://cse.noticebard.com/?p=49180 to https://cse.noticebard.com/jobs/job-full-stack-programmer-at-turing/
+23:29:37	Error: 	"Not Found" (404) at link https://cse.noticebard.com/jobs/job-post-junior-php-developer-at-iim-ahmedabad/AcroPDF.PDF (from https://cse.noticebard.com/wp-includes/js/dist/script-modules/block-library/file/view.min.js?ver=fdc2f6842e015af83140)
+23:29:40	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/transforming-india-initiative-fellowship-programmes-2025/feed/
+23:29:40	Warning: 	File has moved from https://cse.noticebard.com/fellowships/transforming-india-initiative-fellowship-programmes-2025/feed/ to https://cse.noticebard.com/fellowships/transforming-india-initiative-fellowship-programmes-2025/
+23:29:40	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48837
+23:29:40	Warning: 	File has moved from https://cse.noticebard.com/?p=48837 to https://cse.noticebard.com/fellowships/transforming-india-initiative-fellowship-programmes-2025/
+23:29:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Ffellowships%2Ftransforming-india-initiative-fellowship-programmes-2025%2F (from https://cse.noticebard.com/fellowships/transforming-india-initiative-fellowship-programmes-2025/)
+23:29:42	Warning: 	Moved Permanently for https://cse.noticebard.com/hackathon/rabbit-hole-2025-ai-hackathon//amp/
+23:29:42	Warning: 	Redirected link is identical because of 'URL Hack' option: https://cse.noticebard.com/hackathon/rabbit-hole-2025-ai-hackathon//amp/ and https://cse.noticebard.com/hackathon/rabbit-hole-2025-ai-hackathon/amp/
+23:29:42	Warning: 	File has moved from https://cse.noticebard.com/hackathon/rabbit-hole-2025-ai-hackathon//amp/ to https://cse.noticebard.com/hackathon/rabbit-hole-2025-ai-hackathon/amp/
+23:29:42	Warning: 	Moved Permanently for https://cse.noticebard.com/hackathon/hackmol-6-0-by-nit-jalandhar//amp/
+23:29:42	Warning: 	Redirected link is identical because of 'URL Hack' option: https://cse.noticebard.com/hackathon/hackmol-6-0-by-nit-jalandhar//amp/ and https://cse.noticebard.com/hackathon/hackmol-6-0-by-nit-jalandhar/amp/
+23:29:42	Warning: 	File has moved from https://cse.noticebard.com/hackathon/hackmol-6-0-by-nit-jalandhar//amp/ to https://cse.noticebard.com/hackathon/hackmol-6-0-by-nit-jalandhar/amp/
+23:29:44	Warning: 	Moved Permanently for https://cse.noticebard.com/fellowships/indo-french-call-for-joint-research-project-proposals-2025-funding-upto-9-crore//amp/
+23:29:44	Warning: 	Redirected link is identical because of 'URL Hack' option: https://cse.noticebard.com/fellowships/indo-french-call-for-joint-research-project-proposals-2025-funding-upto-9-crore//amp/ and https://cse.noticebard.com/fellowships/indo-french-call-for-joint-research-project-proposals-2025-funding-upto-9-crore/amp/
+23:29:44	Warning: 	File has moved from https://cse.noticebard.com/fellowships/indo-french-call-for-joint-research-project-proposals-2025-funding-upto-9-crore//amp/ to https://cse.noticebard.com/fellowships/indo-french-call-for-joint-research-project-proposals-2025-funding-upto-9-crore/amp/
+23:29:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/cart/ (from https://cse.noticebard.com/my-account/)
+23:29:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/my-account/lost-password/?noamp=mobile (from https://cse.noticebard.com/my-account/lost-password/amp/)
+23:29:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-admin/admin-ajax.php (from https://cse.noticebard.com/wp-content/plugins/cse-subscription/js/subscription.js?v=2.2&ver=1.3)
+23:30:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/49068 (from https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/)
+23:30:09	Error: 	"Not Found" (404) at link https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/amp/rubina@iiitd.ac.in (from https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/amp/)
+23:30:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-content/uploads/sites/23/2025/03/UX-UI-Frontend-HTML-Designer-at-IIM-Ahmedabad-150x150.jpg (from https://cse.noticebard.com/software-engineering/project-associate/research-associate-at-iiit-delhi/amp/)
+23:30:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-rourkela/?noamp=mobile (from https://cse.noticebard.com/internships/summer-internship-programme-2025-at-nit-rourkela/amp/)
+23:30:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/summer-internship-2025-at-nitt/?noamp=mobile (from https://cse.noticebard.com/internships/summer-internship-2025-at-nitt/amp/)
+23:30:12	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available/feed/
+23:30:12	Warning: 	File has moved from https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available/feed/ to https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available/
+23:30:13	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49205
+23:30:13	Warning: 	File has moved from https://cse.noticebard.com/?p=49205 to https://cse.noticebard.com/internships/vlsi-intern-at-intel-bangalore-eee-ece-stipend-available/
+23:30:13	Warning: 	Moved Permanently for https://cse.noticebard.com/author/merin/feed/
+23:30:13	Warning: 	File has moved from https://cse.noticebard.com/author/merin/feed/ to https://cse.noticebard.com/author/merin/
+23:30:13	Error: 	"Not Found" (404) at link https://cse.noticebard.com/wp-json/wp/v2/users/8 (from https://cse.noticebard.com/author/merin/)
+23:30:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/summer-internships-2025-at-nits/amp/ (from https://cse.noticebard.com/internships/summer-internships-2025-at-nits/)
+23:30:26	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/summer-internships-2025-at-nit-hamirpur/feed/
+23:30:26	Warning: 	File has moved from https://cse.noticebard.com/internships/summer-internships-2025-at-nit-hamirpur/feed/ to https://cse.noticebard.com/internships/summer-internships-2025-at-nit-hamirpur/
+23:30:26	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=49086
+23:30:26	Warning: 	File has moved from https://cse.noticebard.com/?p=49086 to https://cse.noticebard.com/internships/summer-internships-2025-at-nit-hamirpur/
+23:30:26	Error: 	"Not Found" (404) at link https://cse.noticebard.com/b3bf290b-485c-4ba1-9ba6-79c0322b23d7 (from https://cse.noticebard.com/internships/summer-internships-2025-at-nit-hamirpur/)
+23:30:26	Error: 	"Not Found" (404) at link https://cse.noticebard.com/03f2d6d5-2e09-4583-9bdf-25d99fbe5b23 (from https://cse.noticebard.com/internships/summer-internships-2025-at-nit-hamirpur/)
+23:30:26	Error: 	"Not Found" (404) at link https://cse.noticebard.com/ecfd5b6a-f45c-4a72-9835-903a55489a91 (from https://cse.noticebard.com/internships/summer-internships-2025-at-nit-hamirpur/)
+23:30:26	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/svnit-summer-internship-programme-2025-for-ug-students/feed/
+23:30:26	Warning: 	File has moved from https://cse.noticebard.com/internships/svnit-summer-internship-programme-2025-for-ug-students/feed/ to https://cse.noticebard.com/internships/svnit-summer-internship-programme-2025-for-ug-students/
+23:30:26	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48749
+23:30:26	Warning: 	File has moved from https://cse.noticebard.com/?p=48749 to https://cse.noticebard.com/internships/svnit-summer-internship-programme-2025-for-ug-students/
+23:30:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcse.noticebard.com%2Finternships%2Fsvnit-summer-internship-programme-2025-for-ug-students%2F (from https://cse.noticebard.com/internships/svnit-summer-internship-programme-2025-for-ug-students/)
+23:30:27	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/outreach-summer-internship-programme-2025-for-ug-students-at-manit-bhopal/feed/
+23:30:27	Warning: 	File has moved from https://cse.noticebard.com/internships/outreach-summer-internship-programme-2025-for-ug-students-at-manit-bhopal/feed/ to https://cse.noticebard.com/internships/outreach-summer-internship-programme-2025-for-ug-students-at-manit-bhopal/
+23:30:27	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48700
+23:30:27	Warning: 	File has moved from https://cse.noticebard.com/?p=48700 to https://cse.noticebard.com/internships/outreach-summer-internship-programme-2025-for-ug-students-at-manit-bhopal/
+23:30:28	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/summer-internship-2025-at-nit-tiruchirappalli-for-ug-students/feed/
+23:30:28	Warning: 	File has moved from https://cse.noticebard.com/internships/summer-internship-2025-at-nit-tiruchirappalli-for-ug-students/feed/ to https://cse.noticebard.com/internships/summer-internship-2025-at-nit-tiruchirappalli-for-ug-students/
+23:30:28	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=48755
+23:30:28	Warning: 	File has moved from https://cse.noticebard.com/?p=48755 to https://cse.noticebard.com/internships/summer-internship-2025-at-nit-tiruchirappalli-for-ug-students/
+23:30:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/internships/c-internship-at-harman-cse-ece/?noamp=mobile (from https://cse.noticebard.com/internships/c-internship-at-harman-cse-ece/amp/)
+23:30:37	Warning: 	Moved Permanently for https://cse.noticebard.com/internships/intern-at-harman-bangalore-salary-available-apply-now/feed/
+23:30:37	Warning: 	File has moved from https://cse.noticebard.com/internships/intern-at-harman-bangalore-salary-available-apply-now/feed/ to https://cse.noticebard.com/internships/intern-at-harman-bangalore-salary-available-apply-now/
+23:30:37	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=46560
+23:30:37	Warning: 	File has moved from https://cse.noticebard.com/?p=46560 to https://cse.noticebard.com/internships/intern-at-harman-bangalore-salary-available-apply-now/
+23:30:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/jobs/job-post-software-engineer-at-visa/?noamp=mobile (from https://cse.noticebard.com/jobs/job-post-software-engineer-at-visa/amp/)
+23:30:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/jobs/job-sde-1-frontend-at-nxtwave/?noamp=mobile (from https://cse.noticebard.com/jobs/job-sde-1-frontend-at-nxtwave/amp/)
+23:30:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/jobs/technical-support-engineering-at-microsoft-salary-upto-rs-16-lpa/?noamp=mobile (from https://cse.noticebard.com/jobs/technical-support-engineering-at-microsoft-salary-upto-rs-16-lpa/amp/)
+23:30:54	Warning: 	Moved Permanently for https://cse.noticebard.com/software-engineering/networking-engineer-opportunites/1600-jobs-opportunities-in-india/feed/
+23:30:54	Warning: 	File has moved from https://cse.noticebard.com/software-engineering/networking-engineer-opportunites/1600-jobs-opportunities-in-india/feed/ to https://cse.noticebard.com/software-engineering/networking-engineer-opportunites/1600-jobs-opportunities-in-india/
+23:30:55	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/wp-json/wp/v2/posts/8294 (from https://cse.noticebard.com/software-engineering/networking-engineer-opportunites/1600-jobs-opportunities-in-india/)
+23:30:57	Warning: 	Moved Permanently for https://cse.noticebard.com/?p=8294
+23:30:57	Warning: 	File has moved from https://cse.noticebard.com/?p=8294 to https://cse.noticebard.com/software-engineering/networking-engineer-opportunites/1600-jobs-opportunities-in-india/
+23:32:42	Warning: 	Moved Permanently for https://cse.noticebard.com/category/software-engineering/networking-engineer-opportunites/feed/
+23:32:42	Warning: 	File has moved from https://cse.noticebard.com/category/software-engineering/networking-engineer-opportunites/feed/ to https://cse.noticebard.com/category/software-engineering/networking-engineer-opportunites/
+23:33:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2023/05/06/ (from https://cse.noticebard.com/category/software-engineering/networking-engineer-opportunites/)
+23:33:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/software-engineering/networking-engineer-opportunites/remote-network-support-engineer/ (from https://cse.noticebard.com/category/software-engineering/networking-engineer-opportunites/)
+23:33:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2023/04/21/ (from https://cse.noticebard.com/category/software-engineering/networking-engineer-opportunites/)
+23:33:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/2023/03/15/ (from https://cse.noticebard.com/category/software-engineering/networking-engineer-opportunites/)
+23:34:39	Warning: 	Moved Permanently for https://cse.noticebard.com/category/software-engineering/feed/
+23:34:39	Warning: 	File has moved from https://cse.noticebard.com/category/software-engineering/feed/ to https://cse.noticebard.com/category/software-engineering/
+23:35:26	Warning: 	Moved Permanently for https://cse.noticebard.com/category/web-development/feed/
+23:35:26	Warning: 	File has moved from https://cse.noticebard.com/category/web-development/feed/ to https://cse.noticebard.com/category/web-development/
+23:35:36	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/web-development/python-developer-at-tcs-bangalore/ (from https://cse.noticebard.com/category/web-development/)
+23:35:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cse.noticebard.com/web-development/dot-net-developer-at-tcs-hyderabad/ (from https://cse.noticebard.com/category/web-development/)

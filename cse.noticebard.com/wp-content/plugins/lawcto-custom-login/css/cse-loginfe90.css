@@ -1,0 +1,85 @@
+.container-title {
+    margin-bottom: 20px;
+    font-family: Sora;
+    color: #220986;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.container-button {
+    background-color: #220986 !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 12px !important;
+    font-family: Sora;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding: 10px 50px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.pass-message {
+    padding: 1em 1em 1em 3.5em;
+    margin: 0 0 1em;
+    position: relative;
+    /* background-color: #f6f5f8; */
+    color: #235703;
+    border-bottom: 1px solid #dddddd;
+    list-style: none outside;
+    width: auto;
+    word-wrap: break-word;
+}
+
+.pass-message::before {
+    font-family: WooCommerce;
+    content: "\e015";
+    color: #40a700;
+    display: inline-block;
+    position: absolute;
+    top: 1em;
+    left: 1.5em;
+}
+
+.container-signup span {
+    font-weight: 700;
+    color: #220986;
+    cursor: pointer;
+}
+
+.loginsbBtn {
+    width: 100% !important;
+    padding: 10px;
+    background: #220986 !important;
+    border-radius: 12px !important;
+    border: 0px !important;
+    color: white !important;
+    margin-top: 8px;
+    height: 53px;
+}
+
+.customform .form-group button {
+    background-color: #220986;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+    .container-title {
+    font-size: 22px !important;
+    font-weight: 700;
+    line-height: 30px !important;
+    letter-spacing: 0em;
+    text-align: center;
+    
+}
+}

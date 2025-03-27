@@ -1,0 +1,123 @@
+.conpleteBtn{
+     border-radius: 0;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: -10px;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+    .customform .form-group {
+      width: 100% !important;
+    }
+
+    .container1 .row {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+    }
+
+    .container1 {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 30px 28px !important;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 20px;
+      display: flex;
+    flex-direction: column;
+    }
+  }
+
+  .container1 {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px 35px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .form-title {
+    font-family: nunito;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 20px;
+  }
+
+   .form-text {
+    font-family: nunito;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #000000;
+  }
+
+  .customform .form-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 48%;
+  }
+
+  .customform .form-checkbox {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .customform .form-checkbox label {
+    font-family: 'Nunito';
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 15px;
+  }
+
+  .customform .form-group label {
+    font-weight: bold;
+    font-family: nunito;
+    font-size: 16px;
+  }
+
+  .customform .form-group input {
+    width: 100%;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    border: 1px solid #00000080;
+    border-radius: 8px;
+    font-family: nunito;
+  }
+
+  .customform .form-group select {
+    width: 100%;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    border: 1px solid #00000080;
+    border-radius: 8px;
+    font-family: nunito;
+  }
+
+
+  .customform .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+.profile_done  {
+    margin-bottom: 20px !important;
+    margin-top: 0px !important;
+}

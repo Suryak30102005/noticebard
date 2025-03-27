@@ -1,0 +1,97 @@
+.elementor-31566 .elementor-element.elementor-element-521ff137{--display:flex;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-text-editor{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-31566 .elementor-element.elementor-element-dc93e2d{--display:flex;}@media(max-width:767px){.elementor-31566 .elementor-element.elementor-element-521ff137{--padding-top:10px;--padding-bottom:20px;--padding-left:20px;--padding-right:20px;}}@media(min-width:768px){.elementor-31566 .elementor-element.elementor-element-521ff137{--content-width:1020px;}}/* Start custom CSS for text-editor, class: .elementor-element-35b3fa35 */.elementor-31566 .elementor-element.elementor-element-35b3fa35 label {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 p {
+    margin-block-start: 0;
+    margin-block-end: 1.2rem;
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 input[type=text] {
+    width: 320px;
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 [type=submit], button {
+    display: inline-block;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+    white-space: nowrap;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: #220986;
+    border: 1px solid #515151;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: 3px;
+    transition: all .3s;
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 .woocommerce-form-row--first {
+    margin-block-end: 0rem;
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 .woocommerce-message {
+    padding: 1em 2em 1em 3.5em;
+    margin: 0 0 2em;
+    position: relative;
+    background-color: #f6f5f8;
+    color: #515151;
+    border-top: 3px solid #7f54b3;
+    list-style: none outside;
+    width: auto;
+    word-wrap: break-word;
+    border-top-color: #8fae1b;
+    
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 .woocommerce-message::before {
+    content: "\e015";
+    color: #8fae1b;
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 .woocommerce-message::before {
+    font-family: WooCommerce;
+    display: inline-block;
+    position: absolute;
+    top: 1em;
+    left: 1.5em;
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 .elementor-element.elementor-element-35b3fa35 p {
+    margin-block-start: 0;
+    margin-block-end: 0.3rem;
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 .woocommerce-Button {
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 .woocommerce-form-row--first {
+    margin-block-end: 1rem;
+}
+
+.elementor-31566 .elementor-element.elementor-element-35b3fa35 .woocommerce-Button {
+    margin-top: 1px;
+}
+
+}/* End custom CSS */
+/* Start custom CSS */body.elementor-page-31566 .entry-title {
+        padding-top: 40px;
+        max-width: 1028px;
+        font-family: 'Nunito';
+        font-weight: 700;
+    
+}
+
+@media only screen and (max-width: 600px) {
+  body.elementor-page-31566 .entry-title {
+        padding-top: 15px;
+        max-width: 1028px;
+        font-family: 'Nunito';
+        font-weight: 700;
+    
+}
+}/* End custom CSS */

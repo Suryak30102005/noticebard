@@ -1,0 +1,536 @@
+/* Styles for the spinner */
+.custom-login-spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-top: 4px solid #fff;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: spin 1s linear infinite;
+  margin-left: 10px;
+  display: inline-block; /* Initially hidden */
+}
+
+/* Animation for the spinner */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#editEmailSection{
+    margin-bottom: 10px;
+}
+
+.snackbarcontain{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+#snackbarcus {
+     display:none;
+     min-width: 250px;
+     background-color: #333;
+     color: #fff;
+     text-align: center;
+     border-radius: 2px;
+     padding: 16px;
+     position: fixed;
+     bottom: 30px;
+     margin: 0px 10px;
+     font-size: 17px;
+     z-index: 2147483647;
+}
+ .bp-profile-content .form-row{
+     display: flex;
+     justify-content: space-between;
+}
+ #snackbarcus.show {
+     display: block;
+     -webkit-animation: fadeinc 0.5s, fadeoutc 0.5s 11s;
+     animation: fadeinc 0.5s, fadeoutc 0.5s 11s;
+}
+ .snackbarCon{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+ @-webkit-keyframes fadeinc {
+     from {
+        bottom: 0;
+         opacity: 0;
+    }
+     to {
+        bottom: 30px;
+         opacity: 1;
+    }
+}
+ @keyframes fadeinc {
+     from {
+        bottom: 0;
+         opacity: 0;
+    }
+     to {
+        bottom: 30px;
+         opacity: 1;
+    }
+}
+ @-webkit-keyframes fadeoutc {
+     from {
+        bottom: 30px;
+         opacity: 1;
+    }
+     to {
+        bottom: 0;
+         opacity: 0;
+    }
+}
+ @keyframes fadeoutc {
+     from {
+        bottom: 30px;
+         opacity: 1;
+    }
+     to {
+        bottom: 0;
+         opacity: 0;
+    }
+}
+ .custompopup{
+     justify-content: center;
+     align-items: center;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .custompopup{
+     justify-content: center;
+     align-items: flex-start;
+}
+}
+
+
+ .popuplogin {
+     display: none;
+      
+    overflow-y: scroll;
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     z-index:2147483646;
+     height: 100%;
+     background-color: rgba(0, 0, 0, 0.85);
+}
+ .paddingleft{
+     padding-left: 52px!important;
+}
+ .phoneprefix{
+     position: absolute;
+     top: 53px;
+     left: 5px;
+     border-right: 1px solid gray;
+     padding: 0 8px;
+}
+ .havingtroble-section{
+     font-size: 12px;
+     color:#9A9A9A;
+}
+ .havingtroble-section a{
+     font-size: 12px!important;
+     color: #f6a11e;
+     text-decoration: underline;
+}
+ .custompopup a,p label{
+     font-size: 14px;
+}
+ .password-toggle-icon{
+     font-size: 20px;
+}
+ .passwordGuid{
+     color: #9A9A9A;
+    margin: 1px 
+}
+ .popuplogin-content {
+     margin: 5% auto;
+     padding: 35px 40px;
+     border: 1px solid #888;
+     background: #FFFFFF;
+     box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+     border-radius: 14px;
+     width: 510px;
+     box-sizing: border-box;
+     max-height: 700px;
+     overflow-y: auto;
+}
+ .input-grouglogin {
+     margin-bottom: 5px;
+     position: relative;
+    /* Add position relative to create a reference for absolute positioning */
+}
+ .input-grouglogin label {
+     display: block;
+     font-size: 14px;
+     font-family: Sora;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+ .input-grouglogin input ,select {
+     width: 100% !important;
+     padding: 10px !important;
+     border: 1px solid #ccc !important;
+     border-radius: 8px !important;
+     box-sizing:border-box;
+     height: 46px;
+     margin-bottom: 10px !important;
+}
+ .custompopup .signupForm .input-grouglogin input, select{
+     margin-bottom: 0px!important;
+}
+ .input-grouglogin i{
+     position: absolute;
+     right: 15px;
+     top: 125px;
+}
+.input-grouglogin span{
+     position: absolute;
+     right: 15px;
+     top: 41px;
+}
+ .right-label {
+     font-size: 14px;
+     color: #888;
+}
+ .emailboxlabel{
+     display: flex;
+     justify-content: space-between;
+}
+ .colselogin {
+     color: #aaa;
+     float: right;
+     font-size: 44px;
+     cursor: pointer;
+     position: relative;
+     top: -20px;
+     right: -20px;
+}
+ .otp {
+     text-align: center;
+     letter-spacing: 10px;
+     font-size: 20px;
+     border: none;
+     outline: none;
+}
+ .otp:focus {
+     border-color: #2196f3;
+}
+ .otp::before {
+     content: "";
+     position: absolute;
+     bottom: 0;
+     left: 0;
+     width: 100%;
+     height: 2px;
+     background-color: #ccc;
+}
+ .otp input[type="text"] {
+     position: relative;
+     z-index: 1;
+     background: transparent;
+}
+ .successIcon{
+     display: flex;
+     width: 100%;
+     justify-content: center;
+     align-items: center;
+}
+ #afterchangepassword{
+     text-align: center;
+}
+ #afterchangepassword h4{
+     text-align: center;
+     color: #222222;
+     font-size: 27px;
+     margin: 15px;
+}
+ #afterchangepassword p{
+     margin: 0 15px;
+}
+ .colselogin:hover, .colselogin:focus {
+     color: #000;
+     text-decoration: none;
+     cursor: pointer;
+}
+ .singinheading{
+font-family: Sora !important;
+font-size: 22px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+
+
+ .or-section {
+     display: flex;
+     align-items: center;
+     margin: 20px 0;
+}
+ .logintext-center{
+     text-align: center;
+}
+ .or-line {
+     flex-grow: 1;
+     border: none;
+     margin: 0px;
+     border-top: 1px solid #ccc;
+     height: 0px;
+}
+ .newhere-section{
+     text-align: center;
+}
+ .mtb13{
+     margin: 13px 0;
+}
+ .or-text {
+     color: #888;
+     margin: 0 3px;
+}
+ .google-btn {
+     font-size: 16px;
+     cursor: pointer;
+     width: 100%;
+     height: 53px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   
+}
+ .google-btn svg{
+     width: 18px;
+     margin-right: 15px;
+}
+ .err{
+     font-size: 14px;
+     color: red;
+     margin: 5px 2px;
+}
+ .displayNone{
+     display: none;
+}
+/* Add responsive styles for small screens */
+ @media screen and (max-width: 600px) {
+     .popuplogin-content {
+         width: 100%;
+    }
+     .popuplogin-content {
+         border-radius: 0px;
+         max-height: 100%;
+         height: 100%;
+    }
+}
+/* Styling for the popupprofile */
+ .popupprofile {
+     display: block;
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     padding: 10px;
+     box-sizing: border-box;
+     height: 100%;
+     background-color: rgba(0, 0, 0, 0.85);
+     z-index: 99999998;
+}
+ .buttondiv{
+     display: flex;
+     justify-content: flex-end;
+}
+ .popupprofile-content {
+     background-color: #fff;
+     max-width: 800px;
+     margin: 50px auto;
+     padding: 40px;
+     border-radius: 14px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+     max-height: 650px;
+     overflow-y: auto;
+}
+ .colseprofile {
+     color: #aaa;
+     float: right;
+     font-size: 44px;
+     cursor: pointer;
+     position: relative;
+     top: -20px;
+     right: -20px;
+}
+/* Styling for the form */
+/*form {
+    */
+    /* display: flex;
+    */
+    /* flex-direction: column;
+    */
+    /*
+}
+*/
+ .input-grougprofile{
+     width: 45% 
+}
+ .input-grougprofile input , select{
+     width: 100%;
+     padding: 10px;
+     border: 1px solid #ccc;
+     border-radius: 8px;
+     box-sizing: border-box;
+     height: 46px;
+}
+ input[type="text"], textarea {
+     margin-bottom: 10px;
+     width: 100%;
+}
+ .popupprofile .form-row {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+}
+ .popupprofile .form-row input[type="text"] {
+     flex: 1;
+     margin-right: 10px;
+}
+ .dolater{
+     margin-right: 12px;
+     padding:10px;
+     background: #fff;
+     border-radius: 8px;
+     border:1px solid #F6A11E;
+     color: #F6A11E;
+     margin-top: 8px;
+     height: 46px;
+}
+ .radiobtn{
+     margin-right: 12px;
+     padding:10px;
+     background: #fff;
+     border-radius: 8px;
+     border:1px solid #ccc;
+     color: #000;
+     margin-top: 8px;
+     height: 46px;
+}
+ .checked{
+     padding:10px;
+     background: #F6A11E;
+     border-radius: 8px;
+     border:0px;
+     color: white;
+     margin-top: 8px;
+     height: 46px;
+}
+ .sbBtn{
+     padding:10px;
+     background: #F6A11E;
+     border-radius: 8px;
+     border:0px;
+     color: white;
+     margin-top: 8px;
+     height: 46px;
+}
+ input[type="submit"] {
+     background-color: #4CAF50;
+     color: white;
+     border: none;
+     padding: 10px;
+     cursor: pointer;
+}
+ @media (max-width: 600px) {
+    /* Adjust layout for mobile devices */
+     .form-row input[type="text"] {
+         margin-right: 0;
+    }
+     .input-grougprofile{
+         width: 100% 
+    }
+}
+ #progilecomplete {
+     display: flex;
+     position: fixed;
+     bottom:10px;
+     z-index: 9999;
+     align-items: center;
+     justify-content: center;
+     border-radius: 20px;
+     width:100%;
+     animation: slideIn 0.3s forwards;
+}
+ .pactionBtn{
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+}
+ @keyframes slideIn {
+     from {
+         transform: translateY(100%);
+         opacity: 0;
+    }
+     to {
+         transform: translateY(0);
+         opacity: 1;
+    }
+}
+ .pdivcontainer{
+     display:flex;
+     flex-direction: row;
+     justify-content: space-between;
+}
+ .pdivText{
+     display:flex;
+     flex-direction: column;
+     justify-content: center;
+     margin-right: 20px;
+}
+ @media only screen and (max-width: 600px){
+     .pdivText{
+         margin-right: 0;
+    }
+     .pactionBtn{
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+    }
+     .pdivcontainer{
+         display:flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+    }
+     .formobilecallProfile{
+         position: fixed;
+         bottom:95px;
+         width:100%;
+         z-index: 9999;
+         padding: 10px 20px;
+    }
+     #progilecomplete {
+         position: unset;
+         width: auto;
+    }
+}
+ .custompopup .otpErr{
+     margin: 5px 2px;
+}
+ 
+ 
+ .loginpopuptext {
+font-family: sora;
+font-size: 14px;
+font-weight: 300;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+
+ }

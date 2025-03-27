@@ -1,0 +1,87 @@
+.hideElement{
+    display: none;
+}
+.overflowhidebody{
+    overflow: hidden!important;
+}
+@media only screen and (max-width: 600px) {
+    
+     .scrollpopuplogin {
+    background: linear-gradient(360deg, #FFFFFF 61.14%, rgba(255, 255, 255, 0.9) 82.31%, rgba(255, 255, 255, 0) 101.26%);
+    padding: 160px 5px 20px 5px !important;
+    text-align: center;
+    max-width: 100%;
+    position: fixed;
+    min-width: 100% !important;
+    bottom: 0;
+    z-index: 1;
+}
+
+
+
+.container-text {
+    margin-bottom: 20px;
+    font-family: Sora;
+    color: #555555;
+    font-size: 16px !important;
+    font-weight: 400;
+    line-height: 25px !important;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.container-signup {
+    font-size: 16px !important;
+    font-family: Sora;
+    line-height: 21.42px;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+}
+
+.container-signup span {
+    font-weight: 700;
+    color: #220986;
+    text-decoration: underline;
+}
+
+
+}
+    .scrollpopuplogin {
+    background: linear-gradient(360deg, #FFFFFF 61.14%, rgba(255, 255, 255, 0.9) 82.31%, rgba(255, 255, 255, 0) 101.26%);
+    padding: 210px 20px 50px 20px;
+    text-align: center;
+    max-width: 100%;
+     position: fixed;
+     min-width: 100% !important;
+    bottom: 0;
+    z-index: 1;
+}
+
+
+
+.container-text {
+    margin-bottom: 20px;
+    font-family: Sora;
+    color: #555555;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.container-signup {
+    font-size: 18px;
+    font-family: Sora;
+    line-height: 21.42px;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+}
+
+.custom_lock_icon {
+    fill: currentColor !important;
+}
+
+
